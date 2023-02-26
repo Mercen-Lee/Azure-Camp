@@ -1,0 +1,845 @@
+"GENERIC","SAMPLEID","MISSION","STATION","LANDMARK","BAGNUMBER","ORIGINALWEIGHT","SAMPLETYPE","SAMPLESUBTYPE","PRISTINITY","PRISTINITYDATE","HASTHINSECTION","HASDISPLAYSAMPLE","DISPLAYSAMPLENUMBER","GENERICDESCRIPTION"
+"60001","416","Apollo 16","LM",,,"30.100","Core","unsieved","45.488","November, 13 2013 00:00:00",true,,,
+"60002","417","Apollo 16","LM",,,"211.800","Core","unsieved","74.021","November, 13 2013 00:00:00",true,,,
+"60003","418","Apollo 16","LM",,,"215.900","Core","unsieved","74.876","November, 13 2013 00:00:00",true,,,
+"60004","419","Apollo 16","LM",,,"202.700","Core","unsieved","72.856","November, 13 2013 00:00:00",true,,,
+"60005","420","Apollo 16","LM",,,"77.300","Core","unsieved","95.962","March, 30 2012 00:00:00",false,,,
+"60006","421","Apollo 16","LM",,,"165.600","Core","unsieved","77.328","November, 13 2013 00:00:00",true,,,
+"60007","422","Apollo 16","LM",,,"105.700","Core","unsieved","57.229","December, 04 2014 00:00:00",true,,,
+"60009","423","Apollo 16","LM",,,"759.800","Core","unsieved","78.297","December, 04 2014 00:00:00",true,,,
+"60010","424","Apollo 16","LM",,,"635.300","Core","unsieved","78.275","December, 04 2014 00:00:00",true,,,
+"60013","425","Apollo 16","LM",,,"757.300","Core","unsieved","76.253","September, 26 2013 00:00:00",true,,,
+"60014","426","Apollo 16","LM",,,"570.300","Core","unsieved","74.816","September, 25 2014 00:00:00",true,,,
+"60015","427","Apollo 16","10",,,"5574.000","Breccia","Anorthosite","58.660","March, 09 2015 00:00:00",true,true,"60015,179; 60015,87; 60015,177; 60015,86","Pristine cataclastic anorthosite (G)"
+"60016","428","Apollo 16","10",,,"4307.000","Breccia","Fragmental","49.565","December, 04 2014 00:00:00",true,true,,"polymict"
+"60017","429","Apollo 16","13","SHADOW ROCK",,"2102.000","Breccia","Impact Melt","95.588","November, 26 2014 00:00:00",true,,,"Variolitic"
+"60018","430","Apollo 16","10",,,"1501.000","Breccia","Impact Melt","95.442","September, 03 2014 00:00:00",true,,,"Basaltic"
+"60019","431","Apollo 16","10",,,"1887.000","Breccia","Regolith","96.480","March, 04 2015 00:00:00",true,,,"Glassy"
+"60020",,"Apollo 16",,,,"51.910","Residue",,"88.310","August, 15 2007 00:00:00",false,,,
+"60025","432","Apollo 16","10",,,"1836.000","Breccia","Anorthosite","43.614","March, 11 2015 00:00:00",true,true,"60025,821; 60025,53; 60025,54; 60025,126","Pristine cataclastic anorthosite (G)"
+"60030",,"Apollo 16",,,,"79.260","Residue",,"86.900","August, 15 2007 00:00:00",false,,,
+"60035","433","Apollo 16","10",,,"1052.000","Breccia","Fragmental","97.688","April, 02 2014 00:00:00",true,,,"Polymict granoblastic"
+"60040",,"Apollo 16",,,,"12.120","Residue",,"100.000","August, 15 2007 00:00:00",false,,,
+"60050","434","Apollo 16","10",,,"0.000","Soil","Unsieved","100.000","August, 15 2007 00:00:00",false,,,
+"60051",,"Apollo 16",,,,"195.300","Soil","<1 mm","89.254","August, 08 2014 00:00:00",true,,,"Fines, < 1mm"
+"60052",,"Apollo 16",,,,"11.430","Soil","1-2 mm","91.251","March, 30 2012 00:00:00",true,,,"Fines, 1-2mm"
+"60053",,"Apollo 16",,,,"7.410","Soil","2-4 mm","91.161","December, 04 2013 00:00:00",false,,,"Fines, 2-4mm"
+"60054","435","Apollo 16",,,,"8.400","Soil","4-10mm","97.260","August, 15 2007 00:00:00",false,,,
+"60055","436","Apollo 16","10",,,"35.480","Breccia","Anorthosite","95.896","March, 05 2014 00:00:00",true,,,"Pristine cataclastic anorthosite"
+"60056","437","Apollo 16","10",,,"16.070","Breccia","Anorthosite","95.744","March, 30 2012 00:00:00",true,,,"Cataclastic anorthosite (G)"
+"60057",,"Apollo 16","10",,,"3.100","Crustal","Anorthosite","100.000","August, 15 2007 00:00:00",false,,,"Cataclastic anorthosite"
+"60058",,"Apollo 16","10",,,"2.120","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia"
+"60059",,"Apollo 16","10",,,"1.050","Crustal","Anorthosite","100.000","August, 15 2007 00:00:00",false,,,"Cataclastic anorthosite"
+"60070",,"Apollo 16",,,,"79.830","Residue",,"99.340","August, 15 2007 00:00:00",false,,,
+"60075","438","Apollo 16","10",,,"183.800","Breccia","Fragmental ","96.163","August, 28 2012 00:00:00",true,,,"polymict"
+"60090",,"Apollo 16",,,,"0.100","Residue",,"0.000","August, 15 2007 00:00:00",false,,,
+"60095","439","Apollo 16","10",,,"46.600","Breccia","Glass","91.291","November, 13 2013 00:00:00",true,,,"Glass"
+"60110",,"Apollo 16",,,,"2.080","Residue",,"66.350","August, 15 2007 00:00:00",false,,,
+"60115","440","Apollo 16","10",,,"132.500","Breccia","Impact Melt","96.955","June, 24 2013 00:00:00",true,,,"clast rich, glassy matrix"
+"60130",,"Apollo 16",,,,"1.070","Residue",,"74.390","August, 15 2007 00:00:00",false,,,
+"60135","441","Apollo 16","10",,,"137.700","Breccia","Anorthosite","94.713","November, 06 2012 00:00:00",true,,,"Cataclastic anorthosite (G)"
+"60210",,"Apollo 16",,,,"12.780","Residue",,"89.980","August, 15 2007 00:00:00",false,,,
+"60215","442","Apollo 16","10",,,"385.800","Breccia","Anorthosite","95.089","February, 03 2015 00:00:00",true,,,"Pristine cataclastic anorthosite (G)"
+"60230",,"Apollo 16",,,,"39.610","Residue",,"99.290","August, 15 2007 00:00:00",false,,,
+"60235","443","Apollo 16","10",,,"70.130","Breccia","Impact Melt","94.602","September, 26 2013 00:00:00",true,,,"Basaltic"
+"60250",,"Apollo 16",,,,"18.310","Residue",,"82.690","August, 15 2007 00:00:00",false,,,
+"60255","444","Apollo 16","10",,,"871.000","Breccia","Regolith","92.908","March, 06 2015 00:00:00",true,,,
+"60270",,"Apollo 16",,,,"37.260","Residue",,"90.450","August, 15 2007 00:00:00",false,,,
+"60275","446","Apollo 16","10",,,"255.200","Breccia","Regolith","94.439","November, 13 2013 00:00:00",true,,,"Glassy"
+"60310",,"Apollo 16",,,,"2.020","Residue",,"77.720","August, 15 2007 00:00:00",false,,,
+"60315","447","Apollo 16","10",,,"787.700","Breccia","Impact Melt","89.273","January, 21 2015 00:00:00",true,,,"Poikilitic"
+"60330",,"Apollo 16",,,,"2.510","Residue",,"52.990","August, 15 2007 00:00:00",false,,,
+"60335","448","Apollo 16","10",,,"317.800","Breccia","Impact Melt","85.476","September, 19 2014 00:00:00",true,,,"Basaltic"
+"60500",,"Apollo 16","10",,,"234.400","Soil","Unsieved","99.258","March, 10 2015 00:00:00",false,,,"Fines, Unsieved"
+"60501",,"Apollo 16",,,,"433.800","Soil","<1 mm","87.889","February, 04 2014 00:00:00",true,,,"Fines, < 1mm"
+"60502",,"Apollo 16",,,,"17.690","Soil","1-2 mm","89.695","March, 30 2012 00:00:00",true,,,"Fines, 1-2mm"
+"60503",,"Apollo 16",,,,"9.940","Soil","2-4 mm","73.139","December, 04 2013 00:00:00",true,,,"Fines, 2-4mm"
+"60504","449","Apollo 16",,,,"6.630","Soil","4-10mm","93.820","August, 15 2007 00:00:00",false,,,
+"60510",,"Apollo 16",,,,"7.670","Residue",,"79.270","August, 15 2007 00:00:00",false,,,
+"60515","450","Apollo 16","10",,,"16.740","Breccia","Anorthosite","98.244","March, 30 2012 00:00:00",true,,,"Cataclastic anorthosite"
+"60516","451","Apollo 16","10",,,"7.910","Breccia","Anorthosite","97.219","March, 30 2012 00:00:00",true,,,"Cataclastic anorthosite"
+"60517","452","Apollo 16","10",,,"1.230","Breccia","Anorthosite","100.000","August, 15 2007 00:00:00",false,,,"Cataclastic anorthosite"
+"60518","453","Apollo 16","10",,,"1.120","Breccia","Anorthosite","78.304","November, 06 2012 00:00:00",true,,,"Cataclastic anorthosite"
+"60519","454","Apollo 16","10",,,"0.500","Breccia","Anorthosite","100.000","August, 15 2007 00:00:00",false,,,"Cataclastic anorthosite"
+"60525","455","Apollo 16","10",,,"12.840","Breccia","Impact Melt","91.262","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"60526","456","Apollo 16","10",,,"8.420","Breccia","Impact Melt","84.276","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"60527","457","Apollo 16","10",,,"7.360","Breccia","Impact Melt","98.234","February, 25 2011 00:00:00",true,,,"Crystalline polymict glass (G)"
+"60528","458","Apollo 16","10",,,"2.940","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Glassy"
+"60529","459","Apollo 16","10",,,"1.240","Breccia","Impact Melt","84.677","March, 30 2012 00:00:00",true,,,"Basaltic"
+"60535","460","Apollo 16","10",,,"7.230","Breccia","Fragmental","89.959","April, 03 2013 00:00:00",true,,,"polymict"
+"60600",,"Apollo 16","10",,,"182.600","Soil","Unsieved","99.195","March, 30 2012 00:00:00",false,,,"Fines, Unsieved"
+"60601",,"Apollo 16",,,,"330.200","Soil","<1 mm","56.742","February, 04 2015 00:00:00",true,,,"Fines, < 1mm"
+"60602",,"Apollo 16",,,,"14.930","Soil","1-2 mm","86.283","December, 04 2013 00:00:00",false,,,"Fines, 1-2mm"
+"60603",,"Apollo 16",,,,"8.570","Soil","2-4 mm","84.854","March, 30 2012 00:00:00",false,,,"Fines, 2-4mm"
+"60604","461","Apollo 16",,,,"3.940","Soil","4-10mm","100.000","August, 15 2007 00:00:00",false,,,
+"60610",,"Apollo 16",,,,"34.740","Residue",,"75.500","August, 15 2007 00:00:00",false,,,
+"60615","462","Apollo 16","10",,,"32.970","Breccia","Impact Melt","92.126","September, 25 2013 00:00:00",true,,,"Basaltic"
+"60616","463","Apollo 16","10",,,"3.400","Breccia","Impact Melt","84.941","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"60617","464","Apollo 16","10",,,"2.770","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Crystalline"
+"60618","465","Apollo 16","10",,,"21.670","Breccia","Impact Melt","92.358","September, 19 2014 00:00:00",true,,,"Basaltic /anorthosite"
+"60619","466","Apollo 16","10",,,"28.000","Crustal","Anorthosite","90.754","July, 15 2013 00:00:00",true,,,"Granoblastic anorthosite (G)"
+"60625","467","Apollo 16","10",,,"117.000","Breccia","Impact Melt","93.263","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"60626","468","Apollo 16","10",,,"15.870","Breccia","Impact Melt","87.372","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"60627","469","Apollo 16","10",,,"12.090","Breccia","Impact Melt","97.340","August, 15 2007 00:00:00",false,,,"Crystalline"
+"60628","470","Apollo 16","10",,,"6.860","Breccia","Anorthosite","100.000","August, 15 2007 00:00:00",false,,,"Cataclastic anorthosite (G)"
+"60629","471","Apollo 16","10",,,"4.920","Breccia","Anorthosite","92.683","July, 15 2013 00:00:00",true,,,"Cataclastic anorthosite (G)"
+"60635","472","Apollo 16","10",,,"15.050","Breccia","Impact Melt","67.176","November, 18 2013 00:00:00",true,,,"Basaltic"
+"60636","473","Apollo 16","10",,,"35.650","Breccia","Impact Melt","87.459","March, 30 2012 00:00:00",true,,,"Basaltic/poikilitic"
+"60637","474","Apollo 16","10",,,"7.980","Breccia","Fragmental","91.228","April, 03 2013 00:00:00",true,,,"polymict"
+"60638","475","Apollo 16","10",,,"0.720","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"polymict"
+"60639","476","Apollo 16","10",,,"175.100","Breccia","Fragmental","97.171","October, 29 2014 00:00:00",true,,,"polymict"
+"60645","477","Apollo 16","10",,,"33.500","Breccia","Impact Melt","97.666","March, 30 2012 00:00:00",true,,,"Fine-grained"
+"60646","478","Apollo 16","10",,,"3.390","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Fine-grained"
+"60647","479","Apollo 16","10",,,"1.760","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Glassy"
+"60648","480","Apollo 16","10",,,"2.840","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"clast rich, Glassy"
+"60649","481","Apollo 16","10",,,"1.030","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"clast rich, Glassy"
+"60655","482","Apollo 16","10",,,"8.630","Breccia","Impact Melt","97.335","February, 22 2011 00:00:00",true,,,"Glassy"
+"60656","483","Apollo 16","10",,,"11.230","Breccia","Impact Melt","98.041","March, 30 2012 00:00:00",true,,,"Glassy"
+"60657","484","Apollo 16","10",,,"6.050","Breccia","Fragmental","98.017","February, 25 2011 00:00:00",true,,,"polymict"
+"60658","485","Apollo 16","10",,,"5.470","Breccia","Impact Melt","94.333","March, 30 2012 00:00:00",true,,,"Glassy"
+"60659","486","Apollo 16","10",,,"22.200","Breccia","Fragmental","98.784","March, 30 2012 00:00:00",true,,,"polymict"
+"60665","487","Apollo 16","10",,,"90.100","Breccia","Glass","99.020","March, 30 2012 00:00:00",true,,,"few clasts, ves"
+"60666","488","Apollo 16","10",,,"15.950","Breccia","Impact Melt","88.420","March, 30 2012 00:00:00",true,,,"Glassy"
+"60667","489","Apollo 16","10",,,"7.660","Breccia","Impact Melt","90.209","March, 30 2012 00:00:00",true,,,"Glassy/basaltic"
+"60668","490","Apollo 16","10",,,"2.910","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Glassy"
+"60669","491","Apollo 16","10",,,"2.540","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Glassy"
+"60675","492","Apollo 16","10",,,"1.300","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Fine-grained"
+"60676","493","Apollo 16","10",,,"8.920","Breccia","Impact Melt","97.197","March, 30 2012 00:00:00",true,,,"Glassy"
+"60677","494","Apollo 16","10",,,"5.230","Breccia","Impact Melt","98.470","February, 22 2011 00:00:00",true,,,"clast rich, Glassy"
+"60678","495","Apollo 16","10",,,"1.250","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Glassy"
+"60679","496","Apollo 16","10",,,"2.960","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Glassy"
+"61010",,"Apollo 16",,,,"64.190","Residue",,"36.130","August, 15 2007 00:00:00",false,,,
+"61015","497","Apollo 16","1",,,"1804.000","Breccia","Impact Melt","96.511","November, 20 2014 00:00:00",true,,,"Dilithologic"
+"61016","498","Apollo 16","1",,,"11729.000","Breccia","Impact Melt","95.234","February, 05 2015 00:00:00",true,true,"61016,116","Basaltic pristine anorthosite (G)"
+"61017",,"Apollo 16","2",,,"2.620","Crustal","Anorthosite","100.000","August, 15 2007 00:00:00",false,,,"Cataclastic anorthosite"
+"61130",,"Apollo 16",,,,"12.510","Residue",,"70.870","August, 15 2007 00:00:00",false,,,
+"61135","499","Apollo 16","1","PLUM CRATER",,"245.100","Breccia","Fragmental","93.308","June, 24 2013 00:00:00",true,,,"polymict"
+"61140",,"Apollo 16","1","PLUM CRATER",,"74.130","Soil","Unsieved","98.490","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"61141",,"Apollo 16",,,,"134.700","Soil","<1 mm","71.892","November, 13 2013 00:00:00",true,,,"Fines, < 1mm"
+"61142",,"Apollo 16",,,,"9.430","Soil","1-2 mm","94.698","March, 30 2012 00:00:00",false,,,"Fines, 1-2mm"
+"61143",,"Apollo 16",,,,"5.380","Soil","2-4 mm","90.706","March, 30 2012 00:00:00",true,,,"Fines, 2-4mm"
+"61144","500","Apollo 16",,,,"5.710","Soil","4-10mm","98.490","August, 15 2007 00:00:00",true,,,
+"61150",,"Apollo 16",,,,"16.130","Residue",,"86.980","August, 15 2007 00:00:00",false,,,
+"61155","501","Apollo 16","1",,,"47.590","Breccia","Impact Melt","98.280","August, 15 2007 00:00:00",true,,,"Glassy"
+"61156","502","Apollo 16","1",,,"58.460","Breccia","Impact Melt","66.406","September, 20 2012 00:00:00",true,,,"Meta-poikilitic"
+"61157",,"Apollo 16","1",,,"11.260","Breccia","Fragmental","99.380","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia"
+"61158",,"Apollo 16","1",,,"14.790","Breccia","Fragmental","97.500","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia"
+"61160",,"Apollo 16",,"PLUM CRATER",,"52.790","Soil","Unsieved","97.630","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"61161",,"Apollo 16",,,,"90.000","Soil","<1 mm","90.743","December, 04 2014 00:00:00",true,,,"Fines, < 1mm"
+"61162",,"Apollo 16",,,,"5.120","Soil","1-2 mm","95.117","December, 04 2013 00:00:00",false,,,"Fines, 1-2mm"
+"61163",,"Apollo 16",,,,"3.600","Soil","2-4 mm","100.000","August, 15 2007 00:00:00",false,,,"Fines, 2-4mm"
+"61164","503","Apollo 16",,,,"2.160","Soil","4-10mm","99.950","August, 15 2007 00:00:00",false,,,
+"61170",,"Apollo 16",,,,"16.320","Residue",,"58.640","August, 15 2007 00:00:00",false,,,
+"61175","504","Apollo 16","1","PLUM CRATER",,"542.700","Breccia","Fragmental","83.398","December, 04 2014 00:00:00",true,,,"polymict"
+"61180",,"Apollo 16",,"PLUM CRATER",,"93.400","Soil","Unsieved","98.790","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"61181",,"Apollo 16",,,,"156.200","Soil","<1 mm","92.090","November, 13 2013 00:00:00",true,,,"Fines, < 1mm"
+"61182",,"Apollo 16",,,,"9.430","Soil","1-2 mm","100.000","December, 04 2013 00:00:00",false,,,"Fines, 1-2mm"
+"61183",,"Apollo 16",,,,"6.230","Soil","2-4 mm","100.000","August, 15 2007 00:00:00",false,,,"Fines, 2-4mm"
+"61184","505","Apollo 16",,,,"0.000","Soil","4-10mm","96.158","March, 30 2012 00:00:00",true,,,
+"61190",,"Apollo 16",,,,"16.610","Residue",,"77.120","August, 15 2007 00:00:00",false,,,
+"61195","506","Apollo 16","1","PLUM CRATER",,"587.900","Breccia","Regolith","96.183","September, 19 2014 00:00:00",true,,,
+"61220","507","Apollo 16","1","PLUM CRATER",,"0.000","Soil","Unsieved","94.638","November, 13 2013 00:00:00",true,,,
+"61221",,"Apollo 16",,,,"61.000","Soil","<1 mm","25.054","March, 04 2015 00:00:00",true,,,"Fines, < 1mm"
+"61222","508","Apollo 16",,,,"0.000","Soil","1-2mm","42.170","March, 30 2012 00:00:00",true,,,
+"61223","509","Apollo 16",,,,"0.000","Soil","2-4mm","87.482","March, 04 2015 00:00:00",true,,,
+"61224","510","Apollo 16",,,,"0.000","Soil","4-10mm","89.603","March, 02 2015 00:00:00",true,,,
+"61225",,"Apollo 16","1",,,"3.520","Breccia","Impact Melt","87.358","February, 25 2011 00:00:00",true,,,"crystalline"
+"61226",,"Apollo 16","1",,,"1.530","Crustal","Anorthosite","100.000","August, 15 2007 00:00:00",false,,,"Cataclastic anorthosite (G)"
+"61240",,"Apollo 16",,"PLUM CRATER",,"160.800","Soil","Unsieved","98.390","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"61241",,"Apollo 16",,,,"247.100","Soil","<1 mm","76.659","December, 04 2014 00:00:00",true,,,"Fines, < 1mm"
+"61242",,"Apollo 16",,,,"17.260","Soil","1-2 mm","74.386","December, 04 2013 00:00:00",true,,,"Fines, 1-2mm"
+"61243",,"Apollo 16",,,,"13.800","Soil","2-4 mm","80.399","March, 30 2012 00:00:00",false,,,"Fines, 2-4mm"
+"61244","511","Apollo 16",,,,"0.000","Soil","4-10mm","95.472","July, 07 2011 00:00:00",false,,,
+"61245",,"Apollo 16","1",,,"8.250","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Fine-grained impact melt"
+"61246",,"Apollo 16","1",,,"6.050","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Fine-grained impact melt"
+"61247",,"Apollo 16","1",,,"2.480","Breccia","Impact Melt","95.890","August, 15 2007 00:00:00",false,,,"Poikilitic impact melt"
+"61248",,"Apollo 16","1",,,"1.710","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia"
+"61249",,"Apollo 16","1",,,"1.170","Breccia","Impact Melt","61.620","August, 15 2007 00:00:00",true,,,"Basaltic impact melt"
+"61255",,"Apollo 16","1",,,"1.130","Breccia","Unclassified","100.000","August, 15 2007 00:00:00",false,,,"Cindery glass"
+"61280",,"Apollo 16",,"FLAG CRATER",,"68.490","Soil","Unsieved","98.060","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"61281",,"Apollo 16",,,,"169.600","Soil","<1 mm","94.733","September, 19 2014 00:00:00",false,,,"Fines, < 1mm"
+"61282",,"Apollo 16",,,,"10.200","Soil","1-2 mm","91.676","December, 04 2013 00:00:00",false,,,"Fines, 1-2mm"
+"61283",,"Apollo 16",,,,"6.740","Soil","2-4 mm","100.000","December, 04 2013 00:00:00",false,,,"Fines, 2-4mm"
+"61284","512","Apollo 16",,,,"0.000","Soil","4-10mm","102.100","August, 15 2007 00:00:00",false,,,
+"61290",,"Apollo 16",,,,"7.700","Residue",,"85.840","August, 15 2007 00:00:00",false,,,
+"61295","513","Apollo 16","1","PLUM CRATER",,"187.000","Breccia","Regolith","92.033","April, 02 2014 00:00:00",true,,,
+"61500",,"Apollo 16",,"PLUM CRATER",,"267.800","Soil","Unsieved","88.167","March, 30 2012 00:00:00",false,,,"Fines, Unsieved"
+"61501",,"Apollo 16",,,,"466.900","Soil","<1 mm","83.572","December, 04 2013 00:00:00",true,,,"Fines, < 1mm"
+"61502",,"Apollo 16",,,,"27.430","Soil","1-2 mm","94.291","December, 04 2013 00:00:00",false,,,"Fines, 1-2mm"
+"61503",,"Apollo 16",,,,"20.080","Soil","2-4 mm","91.419","April, 02 2014 00:00:00",true,,,"Fines, 2-4mm"
+"61504","514","Apollo 16",,,,"0.000","Soil","4-10mm","95.378","April, 03 2013 00:00:00",true,,,
+"61505",,"Apollo 16","1",,,"1.651","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Fine-grained impact melt"
+"61510",,"Apollo 16",,,,"38.880","Residue",,"86.980","August, 15 2007 00:00:00",false,,,
+"61515","515","Apollo 16","1",,,"2.000","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,
+"61516","516","Apollo 16","1",,,"2.380","Breccia","Fragmental","80.966","March, 30 2012 00:00:00",true,,,"polymict"
+"61517","517","Apollo 16","1",,,"0.470","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"polymict"
+"61518","518","Apollo 16","1",,,"0.160","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"polymict"
+"61519","519","Apollo 16","1",,,"0.330","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"polymict"
+"61525","520","Apollo 16","1",,,"10.350","Breccia","Fragmental","96.792","March, 30 2012 00:00:00",true,,,"Polymict, Glassy"
+"61526","521","Apollo 16","1",,,"4.080","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"polymict"
+"61527","522","Apollo 16","1",,,"0.520","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"polymict"
+"61528","523","Apollo 16","1",,,"0.240","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"polymict"
+"61529","524","Apollo 16","1",,,"0.280","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"polymict"
+"61535","525","Apollo 16","1",,,"0.230","Breccia","Fragmental","86.957","March, 30 2012 00:00:00",true,,,"polymict"
+"61536","526","Apollo 16","1",,,"85.990","Breccia","Fragmental","99.465","April, 02 2014 00:00:00",true,,,"Glassy"
+"61537","527","Apollo 16","1",,,"6.620","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (G)"
+"61538","528","Apollo 16","1",,,"4.760","Breccia","Fragmental","92.542","March, 30 2012 00:00:00",true,,,"polymict"
+"61539","529","Apollo 16","1",,,"5.780","Breccia","Unclassified","100.000","August, 15 2007 00:00:00",false,,,"Glassy breccia"
+"61545","530","Apollo 16","1",,,"3.610","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (G)"
+"61546","531","Apollo 16","1",,,"110.700","Breccia","Impact Melt","99.079","March, 30 2012 00:00:00",true,,,"Glassy"
+"61547","532","Apollo 16","1",,,"17.930","Breccia","Impact Melt","93.350","August, 15 2007 00:00:00",true,,,"Basaltic"
+"61548","533","Apollo 16","1",,,"24.180","Breccia","Impact Melt","98.172","March, 30 2012 00:00:00",true,,,"Glassy"
+"61549","534","Apollo 16","1",,,"3.760","Breccia","Impact Melt","91.223","March, 30 2012 00:00:00",true,,,"Basaltic/poikilitic"
+"61555","535","Apollo 16","1",,,"3.460","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Glassy impact melt"
+"61556","536","Apollo 16","1",,,"2.230","Breccia","Impact Melt","98.655","March, 30 2012 00:00:00",true,,,"Devitrified Glass"
+"61557","537","Apollo 16","1",,,"0.930","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Glass"
+"61558","538","Apollo 16","1",,,"3.000","Breccia","Impact Melt","98.000","August, 15 2007 00:00:00",true,,,"Devitrified Glass"
+"61559","539","Apollo 16","1",,,"0.620","Breccia","Impact Melt","82.260","August, 15 2007 00:00:00",true,,,"Glassy"
+"61565","540","Apollo 16","1",,,"0.880","Breccia","Unclassified","100.000","August, 15 2007 00:00:00",false,,,"Glassy breccia"
+"61566","541","Apollo 16","1",,,"0.660","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Glassy impact melt"
+"61567","542","Apollo 16","1",,,"0.190","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Glassy impact melt"
+"61568","543","Apollo 16","1",,,"19.320","Breccia","Impact Melt","93.499","March, 30 2012 00:00:00",true,,,"Basaltic/poikilitic"
+"61569","544","Apollo 16","1",,,"12.020","Breccia","Impact Melt","93.586","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"61575","545","Apollo 16","1",,,"5.260","Breccia","Impact Melt","94.750","August, 15 2007 00:00:00",true,,,"Crystalline"
+"61576","546","Apollo 16","1",,,"5.870","Basalt","Plagioclase","98.024","March, 30 2012 00:00:00",true,,,"Plagioclase crystal (G)"
+"61577","547","Apollo 16","1",,,"0.210","Crustal","Anorthosite","76.190","March, 05 2014 00:00:00",true,,,"Granoblastic troctolitic anorthosite (G)"
+"62230",,"Apollo 16","2","BUSTER CRATER",,"4.640","Soil","Unsieved","15.950","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"62231",,"Apollo 16",,,,"86.740","Soil","<1 mm","85.330","January, 27 2014 00:00:00",true,,,"Fines, < 1mm"
+"62232",,"Apollo 16",,,,"6.960","Soil","1-2 mm","100.000","August, 15 2007 00:00:00",false,,,"Fines, 1-2mm"
+"62233",,"Apollo 16",,,,"5.320","Soil","2-4 mm","100.000","August, 15 2007 00:00:00",false,,,"Fines, 2-4mm"
+"62234","548","Apollo 16",,,,"8.460","Soil","4-10mm","98.270","August, 15 2007 00:00:00",false,,,
+"62235","549","Apollo 16","2",,,"319.600","Breccia","Impact Melt","81.922","February, 18 2015 00:00:00",true,,,"Poikilitic"
+"62236","550","Apollo 16","2",,,"57.270","Crustal","Anorthosite","76.759","September, 19 2014 00:00:00",true,,,"Pristine noritic anorthosite"
+"62237","551","Apollo 16","2",,,"62.350","Crustal","Anorthosite","62.808","September, 19 2014 00:00:00",true,,,"Pristine troctolitic anorthosite"
+"62238",,"Apollo 16","2",,,"1.565","Crustal","Anorthosite","100.000","August, 15 2007 00:00:00",false,,,"Cataclastic anorthosite"
+"62240","552","Apollo 16","2","BUSTER CRATER",,"0.000","Soil","Unsieved","90.560","March, 30 2012 00:00:00",false,,,
+"62241",,"Apollo 16",,,,"243.400","Soil","<1 mm","88.806","November, 13 2013 00:00:00",true,,,"Fines, < 1mm"
+"62242",,"Apollo 16",,,,"21.740","Soil","1-2 mm","83.947","March, 30 2012 00:00:00",false,,,"Fines, 1-2mm"
+"62243",,"Apollo 16",,,,"19.600","Soil","2-4 mm","92.117","March, 30 2012 00:00:00",false,,,"Fines, 2-4mm"
+"62244","553","Apollo 16",,,,"16.370","Soil","4-10mm","98.050","August, 15 2007 00:00:00",false,,,
+"62245",,"Apollo 16","2",,,"6.030","Breccia","Impact Melt","80.464","March, 30 2012 00:00:00",true,,,"Crystalline impact melt"
+"62246",,"Apollo 16","2",,,"4.590","Crustal","Anorthosite","95.490","May, 09 2012 00:00:00",true,,,"Cataclastic anorthosite (G)"
+"62247",,"Apollo 16","2",,,"2.110","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia"
+"62248",,"Apollo 16","2",,,"1.610","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (G)"
+"62249",,"Apollo 16","2",,,"1.410","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia"
+"62250",,"Apollo 16",,,,"18.430","Residue",,"60.930","August, 15 2007 00:00:00",false,,,
+"62255","554","Apollo 16","2",,,"1239.000","Breccia","Fragmental","93.763","February, 03 2015 00:00:00",true,,,"Dilithologic , cataclastic anorthosite clasts"
+"62270",,"Apollo 16",,,,"22.170","Residue",,"87.820","August, 15 2007 00:00:00",false,,,
+"62275","555","Apollo 16","2",,,"443.000","Breccia","Anorthosite","98.007","November, 26 2013 00:00:00",true,,,"Cataclastic anorthosite"
+"62280",,"Apollo 16","2","BUSTER CRATER",,"143.000","Soil","Unsieved","98.780","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"62281",,"Apollo 16",,,,"218.500","Soil","<1 mm","70.712","December, 29 2014 00:00:00",true,,,"Fines, < 1mm"
+"62282",,"Apollo 16",,,,"21.710","Soil","1-2 mm","93.616","December, 04 2013 00:00:00",false,,,"Fines, 1-2mm"
+"62283",,"Apollo 16",,,,"13.110","Soil","2-4 mm","92.586","March, 30 2012 00:00:00",false,,,"Fines, 2-4mm"
+"62284","556","Apollo 16",,,,"14.300","Soil","4-10mm","96.620","August, 15 2007 00:00:00",false,,,
+"62285",,"Apollo 16","2",,,"3.524","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Friable regolith clod"
+"62286",,"Apollo 16","2",,,"2.917","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Friable regolith clod"
+"62287",,"Apollo 16","2",,,"2.474","Breccia","Impact Melt","95.960","August, 15 2007 00:00:00",false,,,"Fine-grained impact melt"
+"62288",,"Apollo 16","2",,,"1.939","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"Fragmental or crystalline polymict breccia"
+"62289",,"Apollo 16","2",,,"1.135","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Friable regolith clod"
+"62290",,"Apollo 16",,,,"27.700","Residue",,"95.850","August, 15 2007 00:00:00",false,,,
+"62295","557","Apollo 16","2",,,"250.800","Breccia","Impact Melt","77.695","September, 19 2014 00:00:00",true,,,"Basaltic"
+"62305",,"Apollo 16","2",,,"0.810","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia"
+"62315",,"Apollo 16","2",,,"0.770","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia"
+"63010",,"Apollo 16",,,,"51.300","Residue",,"100.000","August, 15 2007 00:00:00",false,,,
+"63320",,"Apollo 16","13","SHADOW ROCK",,"320.000","Soil","Unsieved","96.436","March, 30 2012 00:00:00",true,,,"Fines, Unsieved"
+"63321",,"Apollo 16",,,,"25.670","Soil","<1 mm","2.213","August, 12 2014 00:00:00",true,,,"Fines, < 1mm"
+"63322",,"Apollo 16",,,,"2.650","Soil","1-2 mm","81.132","March, 30 2012 00:00:00",false,,,"Fines, 1-2mm"
+"63323",,"Apollo 16",,,,"2.020","Soil","2-4 mm","100.000","September, 03 2014 00:00:00",false,,,"Fines, 2-4mm"
+"63324","558","Apollo 16",,,,"1.150","Soil","4-10mm","100.000","August, 15 2007 00:00:00",false,,,
+"63335","559","Apollo 16","13","SHADOW ROCK",,"65.400","Breccia","Impact Melt","80.304","September, 19 2014 00:00:00",true,,,"Fine-grained"
+"63340",,"Apollo 16","13","SHADOW ROCK",,"149.700","Soil","Unsieved","94.248","March, 30 2012 00:00:00",false,,,"Fines, Unsieved"
+"63341",,"Apollo 16",,,,"25.880","Soil","<1 mm","53.126","August, 12 2014 00:00:00",true,,,"Fines, < 1mm"
+"63342",,"Apollo 16",,,,"2.520","Soil","1-2 mm","100.000","December, 04 2013 00:00:00",false,,,"Fines, 1-2mm"
+"63343",,"Apollo 16",,,,"2.130","Soil","2-4 mm","100.000","August, 15 2007 00:00:00",false,,,"Fines, 2-4mm"
+"63344","560","Apollo 16",,,,"0.960","Soil","4-10mm","72.917","March, 30 2012 00:00:00",false,,,
+"63350",,"Apollo 16",,,,"23.490","Residue",,"99.150","August, 15 2007 00:00:00",false,,,
+"63355","561","Apollo 16","13","SHADOW ROCK",,"68.240","Breccia","Impact Melt","77.836","December, 10 2013 00:00:00",true,,,"Poikilitic"
+"63500",,"Apollo 16","4B","SHADOW ROCK",,"201.800","Soil","Unsieved","93.500","March, 30 2012 00:00:00",false,,,"Fines, Unsieved"
+"63501",,"Apollo 16",,,,"342.500","Soil","<1 mm","67.951","August, 12 2014 00:00:00",true,,,"Fines, < 1mm"
+"63502",,"Apollo 16",,,,"25.290","Soil","1-2 mm","84.235","September, 03 2014 00:00:00",true,,,"Fines, 1-2mm"
+"63503",,"Apollo 16",,,,"14.530","Soil","2-4 mm","75.492","August, 12 2014 00:00:00",true,,,"Fines, 2-4mm"
+"63504","562","Apollo 16",,,,"17.340","Soil","4-10mm","90.170","November, 02 2010 00:00:00",true,,,
+"63505","563","Apollo 16","13",,,"5.410","Breccia","Impact Melt","87.650","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"63506","564","Apollo 16","13",,,"4.900","Breccia","Impact Melt","95.204","February, 25 2011 00:00:00",true,,,"Basaltic"
+"63507","565","Apollo 16","13",,,"2.780","Breccia","Fragmental","82.122","November, 13 2013 00:00:00",true,,,"Fragmental regolith breccia (G)"
+"63508","566","Apollo 16","13",,,"2.610","Breccia","Impact Melt","90.570","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"63509","567","Apollo 16","13",,,"2.050","Breccia","Impact Melt","90.100","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"63515","568","Apollo 16","13",,,"1.320","Breccia","Impact Melt","88.860","August, 15 2007 00:00:00",true,,,"Fine-grained impact melt"
+"63520",,"Apollo 16",,,,"22.080","Unclassified",,"83.240","August, 15 2007 00:00:00",false,,,
+"63525","569","Apollo 16","13",,,"6.680","Breccia","Impact Melt","54.671","December, 02 2013 00:00:00",true,,,"Fine-grained"
+"63526","570","Apollo 16","13",,,"2.910","Breccia","Impact Melt","92.200","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"63527","571","Apollo 16","13",,,"6.100","Breccia","Impact Melt","92.670","August, 15 2007 00:00:00",true,,,"Basaltic"
+"63528","572","Apollo 16","13",,,"4.120","Breccia","Impact Melt","92.740","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"63529","573","Apollo 16","13",,,"23.480","Breccia","Impact Melt","98.140","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"63535","574","Apollo 16","13",,,"6.850","Breccia","Impact Melt","86.555","December, 05 2012 00:00:00",true,,,"Basaltic"
+"63536","575","Apollo 16","13",,,"1.020","Breccia","Impact Melt","80.590","August, 15 2007 00:00:00",true,,,"Basaltic"
+"63537","576","Apollo 16","13",,,"4.780","Breccia","Impact Melt","93.494","February, 25 2011 00:00:00",true,,,"Basaltic"
+"63538","577","Apollo 16","13",,,"35.060","Breccia","Impact Melt","98.303","September, 19 2014 00:00:00",true,,,"Fine-grained /glass"
+"63539","578","Apollo 16","13",,,"0.390","Breccia","Impact Melt","89.740","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"63545","579","Apollo 16","13",,,"15.950","Breccia","Impact Melt","88.727","September, 19 2014 00:00:00",true,,,"Basaltic"
+"63546","580","Apollo 16","13",,,"9.230","Breccia","Impact Melt","96.890","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"63547","581","Apollo 16","13",,,"4.900","Breccia","Impact Melt","94.898","April, 02 2014 00:00:00",true,,,"Poikilitic"
+"63548","582","Apollo 16","13",,,"1.130","Breccia","Impact Melt","77.611","November, 06 2009 00:00:00",true,,,"Fine-grained"
+"63549","583","Apollo 16","13",,,"26.570","Breccia","Impact Melt","65.205","December, 10 2013 00:00:00",true,,,"Basaltic"
+"63555","584","Apollo 16","13",,,"3.380","Breccia","Impact Melt","86.450","August, 15 2007 00:00:00",true,,,"clast rich"
+"63556","585","Apollo 16","13",,,"18.100","Breccia","Impact Melt","86.365","April, 02 2014 00:00:00",true,,,"Poikilitic"
+"63557","586","Apollo 16","13",,,"7.530","Breccia","Impact Melt","95.697","March, 30 2012 00:00:00",true,,,"Fine-grained"
+"63558","587","Apollo 16","13",,,"7.090","Breccia","Impact Melt","96.276","May, 14 2010 00:00:00",true,,,"Poikilitic"
+"63559","588","Apollo 16","13",,,"6.040","Breccia","Impact Melt","93.380","August, 15 2007 00:00:00",true,,,"Devitrified Glass"
+"63565","589","Apollo 16","13",,,"0.940","Breccia","Impact Melt","89.894","February, 25 2011 00:00:00",true,,,"Devitrified Glass"
+"63566","590","Apollo 16","13",,,"19.610","Breccia","Impact Melt","95.110","May, 09 2012 00:00:00",true,,,"Devitrified Glass, cataclastic anorthosite clast"
+"63567","591","Apollo 16","13",,,"3.210","Breccia","Impact Melt","90.935","February, 25 2011 00:00:00",true,,,"Devitrified Glass"
+"63568","592","Apollo 16","13",,,"4.060","Breccia","Impact Melt","93.100","August, 15 2007 00:00:00",true,,,"Devitrified Glass"
+"63569","593","Apollo 16","13",,,"0.430","Breccia","Unclassified","93.020","August, 15 2007 00:00:00",true,,,"Glass"
+"63575","594","Apollo 16","13",,,"4.720","Breccia","Impact Melt","94.703","May, 09 2012 00:00:00",true,,,"Glass enclosing white clast"
+"63576","595","Apollo 16","13",,,"1.230","Breccia","Impact Melt","93.496","July, 02 2012 00:00:00",true,,,"Glass enclosing white clasts"
+"63577","596","Apollo 16","13",,,"12.410","Breccia","Impact Melt","97.990","August, 15 2007 00:00:00",true,,,"Crystalline, polymict"
+"63578","597","Apollo 16","13",,,"19.600","Breccia","Impact Melt","90.949","May, 09 2012 00:00:00",true,,,"Glassy/fine-grained"
+"63579","598","Apollo 16","13",,,"11.350","Breccia","Impact Melt","95.180","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"63585","599","Apollo 16","13",,,"32.620","Breccia","Impact Melt","92.922","September, 03 2014 00:00:00",true,,,"Basaltic/poikilitic"
+"63586","600","Apollo 16","13",,,"1.980","Breccia","Impact Melt","88.430","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"63587","601","Apollo 16","13",,,"20.510","Breccia","Impact Melt","98.030","August, 15 2007 00:00:00",true,,,"Poikilitic"
+"63588","602","Apollo 16","13",,,"2.400","Breccia","Fragmental","45.208","April, 02 2014 00:00:00",true,,,"polymict"
+"63589","603","Apollo 16","13",,,"13.510","Breccia","Fragmental","97.483","March, 30 2012 00:00:00",true,,,"polymict"
+"63595","604","Apollo 16","13",,,"2.100","Breccia","Fragmental","88.571","August, 27 2013 00:00:00",true,,,"polymict"
+"63596","605","Apollo 16","13",,,"6.400","Breccia","Impact Melt","95.594","February, 25 2011 00:00:00",true,,,"Poikilitic"
+"63597","606","Apollo 16","13",,,"5.670","Breccia","Impact Melt","96.540","August, 15 2007 00:00:00",true,,,"Poikilitic"
+"63598","607","Apollo 16","13",,,"12.660","Breccia","Impact Melt","95.174","April, 02 2014 00:00:00",true,,,"Poikilitic"
+"64001","609","Apollo 16","4","STONE MOUNTAIN",,"752.300","Core","unsieved","78.533","December, 22 2014 00:00:00",true,,,
+"64002","610","Apollo 16","4","STONE MOUNTAIN",,"584.100","Core","unsieved","76.609","December, 22 2014 00:00:00",true,,,
+"64420",,"Apollo 16","4","CINCO B CRATER",,"112.200","Soil","Unsieved","98.490","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"64421",,"Apollo 16",,,,"206.900","Soil","<1 mm","75.829","August, 19 2013 00:00:00",true,,,"Fines, < 1mm"
+"64422",,"Apollo 16",,,,"6.170","Soil","1-2 mm","71.151","March, 30 2012 00:00:00",false,,,"Fines, 1-2mm"
+"64423","611","Apollo 16",,,,"3.760","Soil","2-4mm","72.633","March, 30 2012 00:00:00",true,,,
+"64424","612","Apollo 16",,,,"2.060","Soil","4-10mm","100.000","August, 15 2007 00:00:00",false,,,
+"64425","613","Apollo 16","4",,,"14.620","Breccia","Fragmental","77.305","August, 12 2014 00:00:00",true,,,"Dilithologic"
+"64430",,"Apollo 16",,,,"28.220","Residue",,"83.880","August, 15 2007 00:00:00",false,,,
+"64435","614","Apollo 16","4",,,"1079.000","Breccia","Impact Melt","90.851","December, 17 2014 00:00:00",true,,,"Fine-grained"
+"64450",,"Apollo 16",,,,"1.570","Residue",,"96.820","August, 15 2007 00:00:00",false,,,
+"64455","615","Apollo 16","4",,,"56.680","Breccia","Impact Melt","24.520","May, 20 2014 00:00:00",true,,,"Basaltic"
+"64470",,"Apollo 16",,,,"27.090","Residue",,"91.580","August, 15 2007 00:00:00",false,,,
+"64475","616","Apollo 16","4",,,"1032.000","Breccia","Impact Melt","94.347","February, 18 2015 00:00:00",true,,,"Dilithologic"
+"64476","617","Apollo 16","4",,,"125.100","Breccia","Impact Melt","94.877","December, 10 2013 00:00:00",true,,,"Dilithologic"
+"64477","618","Apollo 16","4",,,"19.320","Breccia","Fragmental","94.510","August, 15 2007 00:00:00",true,,,"Glassy"
+"64478","619","Apollo 16","4",,,"12.340","Breccia","Impact Melt","97.490","August, 15 2007 00:00:00",true,,,"Poikilitic"
+"64500",,"Apollo 16","4","CINCO B CRATER",,"320.600","Soil","Unsieved","95.817","March, 30 2012 00:00:00",false,,,"Fines, Unsieved"
+"64501","620","Apollo 16",,,,"495.700","Soil","<1 mm","83.587","November, 26 2014 00:00:00",true,,,
+"64502",,"Apollo 16",,,,"28.380","Soil","1-2 mm","85.543","January, 08 2013 00:00:00",true,,,"Fines, 1-2mm"
+"64503",,"Apollo 16",,,,"24.110","Soil","2-4 mm","88.826","August, 12 2014 00:00:00",true,,,"Fines, 2-4mm"
+"64504","621","Apollo 16",,,,"24.150","Soil","4-10mm","97.901","July, 07 2011 00:00:00",false,,,
+"64505",,"Apollo 16","4",,,"5.392","Breccia","Fragmental","96.810","August, 15 2007 00:00:00",true,,,"Fragmental polymict breccia"
+"64506",,"Apollo 16","4",,,"5.079","Breccia","Impact Melt","94.050","August, 15 2007 00:00:00",true,,,"Basaltic impact melt (G)"
+"64507",,"Apollo 16","4",,,"4.474","Breccia","Unclassified","95.460","August, 15 2007 00:00:00",true,,,"Dilithologic breccia"
+"64508",,"Apollo 16","4",,,"4.168","Breccia","Unclassified","95.200","August, 15 2007 00:00:00",true,,,"Dilithologic breccia"
+"64509",,"Apollo 16","4",,,"3.150","Breccia","Fragmental","93.020","August, 15 2007 00:00:00",true,,,"Fragmental polymict breccia"
+"64515",,"Apollo 16","4",,,"3.761","Breccia","Impact Melt","81.840","August, 15 2007 00:00:00",true,,,"Basaltic impact melt"
+"64516",,"Apollo 16","4",,,"2.929","Crustal","Anorthosite","94.230","August, 15 2007 00:00:00",true,,,"Cataclastic anorthosite"
+"64517",,"Apollo 16","4",,,"1.546","Breccia","Unclassified","94.830","August, 15 2007 00:00:00",true,,,"Crystalline polymict breccia"
+"64518",,"Apollo 16","4",,,"1.490","Breccia","Impact Melt","92.620","August, 15 2007 00:00:00",true,,,"Fine-grained impact melt"
+"64519",,"Apollo 16","4",,,"1.124","Crustal","Anorthosite","95.550","August, 15 2007 00:00:00",true,,,"Cataclastic anorthosite"
+"64525",,"Apollo 16","4",,,"1.107","Crustal","Anorthosite","86.720","August, 15 2007 00:00:00",true,,,"Cataclastic anorthosite"
+"64530",,"Apollo 16",,,,"35.450","Residue",,"75.180","August, 15 2007 00:00:00",false,,,
+"64535","622","Apollo 16","4",,,"256.600","Breccia","Impact Melt","98.372","April, 02 2014 00:00:00",true,,,"clast rich, Dilithologic"
+"64536","623","Apollo 16","4",,,"177.500","Breccia","Impact Melt","96.738","April, 02 2014 00:00:00",true,,,"clast rich, Dilithologic"
+"64537","624","Apollo 16","4",,,"124.300","Breccia","Impact Melt","96.825","April, 02 2014 00:00:00",true,,,"clast rich, Dilithologic"
+"64538","625","Apollo 16","4",,,"30.030","Breccia","Impact Melt","99.160","August, 15 2007 00:00:00",true,,,"Polylithologic"
+"64539","626","Apollo 16","4",,,"17.760","Breccia","Fragmental","98.029","April, 30 2012 00:00:00",true,,,"Dilithologic"
+"64545","627","Apollo 16","4",,,"14.090","Breccia","Fragmental","97.012","April, 02 2014 00:00:00",true,,,"Dilithologic"
+"64546","628","Apollo 16","4",,,"12.800","Breccia","Fragmental","98.594","March, 30 2012 00:00:00",false,,,"Dilithologic"
+"64547","629","Apollo 16","4",,,"10.900","Breccia","Impact Melt","96.514","April, 02 2014 00:00:00",true,,,"Polylithologic"
+"64548","630","Apollo 16","4",,,"8.490","Breccia","Fragmental","96.584","March, 30 2012 00:00:00",true,,,"Dilithologic"
+"64549","631","Apollo 16","4",,,"6.470","Breccia","Fragmental","96.600","April, 02 2014 00:00:00",true,,,"Dilithologic"
+"64555","633","Apollo 16","4",,,"5.290","Breccia","Fragmental","99.622","April, 02 2014 00:00:00",true,,,"Fragmental dilithologic breccia"
+"64556","634","Apollo 16","4",,,"5.150","Breccia","Unclassified","96.272","April, 02 2014 00:00:00",true,,,"Dilithologic or polymict breccia"
+"64557","635","Apollo 16","4",,,"4.790","Breccia","Impact Melt","98.330","May, 09 2012 00:00:00",true,,,"Fine-grained impact melt"
+"64558","636","Apollo 16","4",,,"3.130","Breccia","Unclassified","94.377","April, 02 2014 00:00:00",true,,,"Dilithologic breccia"
+"64559","637","Apollo 16","4",,,"21.820","Breccia","Impact Melt","98.786","May, 09 2012 00:00:00",true,,,"Basaltic"
+"64565","638","Apollo 16","4",,,"14.730","Breccia","Impact Melt","98.099","July, 07 2011 00:00:00",true,,,"Glassy"
+"64566","639","Apollo 16","4",,,"14.130","Breccia","Impact Melt","96.079","April, 02 2014 00:00:00",true,,,"white clasts"
+"64567","640","Apollo 16","4",,,"13.860","Breccia","Impact Melt","80.375","September, 19 2014 00:00:00",true,,,"Poikilitic"
+"64568","641","Apollo 16","4",,,"9.379","Breccia","Impact Melt","98.145","February, 25 2011 00:00:00",true,,,"Poikilitic"
+"64569","642","Apollo 16","4",,,"14.320","Breccia","Impact Melt","94.937","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"64575","643","Apollo 16","4",,,"6.837","Breccia","Impact Melt","97.700","August, 15 2007 00:00:00",true,,,"Poikilitic"
+"64576","644","Apollo 16","4",,,"6.916","Breccia","Impact Melt","93.956","March, 30 2012 00:00:00",true,,,"Basaltic"
+"64577","645","Apollo 16","4",,,"5.692","Breccia","Impact Melt","98.419","March, 30 2012 00:00:00",true,,,"Glassy"
+"64578","646","Apollo 16","4",,,"5.596","Breccia","Impact Melt","96.410","August, 15 2007 00:00:00",true,,,"Fine-grained impact melt (G)"
+"64579","647","Apollo 16","4",,,"4.802","Breccia","Impact Melt","95.752","March, 30 2012 00:00:00",true,,,"Fine-grained"
+"64585","648","Apollo 16","4",,,"4.696","Breccia","Impact Melt","93.335","March, 30 2012 00:00:00",true,,,"Basaltic/poikilitic"
+"64586","649","Apollo 16","4",,,"3.337","Breccia","Impact Melt","95.330","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"64587","650","Apollo 16","4",,,"7.180","Breccia","Fragmental","98.886","March, 30 2012 00:00:00",true,,,"polymict"
+"64588","651","Apollo 16","4",,,"2.546","Breccia","Fragmental","95.290","August, 15 2007 00:00:00",true,,,"polymict"
+"64589","652","Apollo 16","4",,,"4.039","Breccia","Anorthosite","94.060","August, 15 2007 00:00:00",true,,,"Cataclastic anorthosite"
+"64800",,"Apollo 16","4B",,,"166.300","Soil","Unsieved","99.700","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"64801",,"Apollo 16",,,,"286.800","Soil","<1 mm","88.728","February, 04 2015 00:00:00",true,,,"Fines, < 1mm"
+"64802",,"Apollo 16",,,,"10.960","Soil","1-2 mm","88.590","August, 15 2007 00:00:00",false,,,"Fines, 1-2mm"
+"64803","653","Apollo 16",,,,"8.090","Soil","2-4mm","86.106","March, 30 2012 00:00:00",true,,,
+"64804","654","Apollo 16",,,,"7.890","Soil","4-10mm","98.100","August, 15 2007 00:00:00",false,,,
+"64810",,"Apollo 16","4B","STONE MOUNTAIN",,"102.140","Soil","Unsieved","97.810","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"64811",,"Apollo 16",,,,"174.700","Soil","<1 mm","94.086","November, 13 2013 00:00:00",true,,,"Fines, < 1mm"
+"64812",,"Apollo 16",,,,"9.530","Soil","1-2 mm","94.753","March, 30 2012 00:00:00",true,,,"Fines, 1-2mm"
+"64813","655","Apollo 16",,,,"9.100","Soil","2-4mm","90.930","August, 15 2007 00:00:00",false,,,
+"64814","656","Apollo 16",,,,"5.340","Soil","4-10mm","97.570","August, 15 2007 00:00:00",false,,,
+"64815","657","Apollo 16","4",,,"20.900","Breccia","Impact Melt","83.761","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"64816","658","Apollo 16","4",,,"3.830","Breccia","Impact Melt","90.392","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"64817","659","Apollo 16","4",,,"8.980","Breccia","Impact Melt","82.773","September, 25 2013 00:00:00",true,,,"Basaltic"
+"64818","660","Apollo 16","4",,,"15.980","Breccia","fragmental","95.369","March, 30 2012 00:00:00",true,,,"Dilithologic"
+"64819","661","Apollo 16","4",,,"11.760","Breccia","fragmental","97.959","March, 30 2012 00:00:00",true,,,"monomict, Pristine cataclastic anorthosite (G)"
+"64825","662","Apollo 16","4",,,"21.500","Breccia","Regolith","98.000","May, 09 2012 00:00:00",true,,,
+"64826","663","Apollo 16","4",,,"11.330","Breccia","Regolith","92.763","March, 30 2012 00:00:00",true,,,"polymict"
+"64827","664","Apollo 16","4",,,"8.110","Breccia","Regolith","98.030","August, 15 2007 00:00:00",true,,,"polymict"
+"64828","665","Apollo 16","4",,,"0.970","Breccia","Regolith","89.280","August, 15 2007 00:00:00",true,,,
+"64829","666","Apollo 16","4",,,"2.200","Breccia","Regolith","88.640","August, 15 2007 00:00:00",true,,,
+"64835","667","Apollo 16","4",,,"2.320","Breccia","Regolith","79.740","August, 15 2007 00:00:00",true,,,
+"64836","668","Apollo 16","4",,,"1.760","Breccia","Regolith","96.590","August, 15 2007 00:00:00",true,,,
+"64837","669","Apollo 16","4",,,"2.180","Breccia","Regolith","99.080","August, 15 2007 00:00:00",true,,,
+"65010",,"Apollo 16",,,,"42.370","Residue",,"100.000","August, 15 2007 00:00:00",false,,,
+"65015","670","Apollo 16","5",,,"1802.000","Breccia","Impact Melt","91.676","March, 11 2015 00:00:00",true,,,"Poikilitic"
+"65016","671","Apollo 16","5",,,"21.020","Breccia","Impact Melt","93.264","March, 30 2012 00:00:00",true,,,"Glass sphere, hollow"
+"65030",,"Apollo 16",,,,"45.000","Residue",,"87.310","August, 15 2007 00:00:00",false,,,
+"65035","672","Apollo 16","5",,,"446.100","Breccia","fragmental","95.504","March, 09 2015 00:00:00",true,,,"impact melt, Cataclastic anorthosite (G) clasts"
+"65050",,"Apollo 16",,,,"32.290","Residue",,"90.650","August, 15 2007 00:00:00",false,,,
+"65055","673","Apollo 16","5",,,"500.800","Breccia","Impact Melt","95.772","September, 19 2014 00:00:00",true,,,"Basaltic"
+"65056","674","Apollo 16","5",,,"64.780","Breccia","Impact Melt","95.755","February, 25 2011 00:00:00",true,,,"Variolitic"
+"65070",,"Apollo 16",,,,"5.050","Residue",,"75.840","August, 15 2007 00:00:00",false,,,
+"65075","675","Apollo 16","5",,,"107.900","Breccia","Impact Melt","93.840","November, 26 2013 00:00:00",true,,,"Basaltic"
+"65090",,"Apollo 16",,,,"28.860","Residue",,"89.330","August, 15 2007 00:00:00",false,,,
+"65095","676","Apollo 16","5",,,"560.100","Breccia","Regolith","94.920","December, 03 2014 00:00:00",true,,,"polymict, glass coating"
+"65310",,"Apollo 16",,,,"45.080","Residue",,"89.090","August, 15 2007 00:00:00",false,,,
+"65315","677","Apollo 16","5",,,"300.400","Breccia","fragmental","80.940","February, 03 2015 00:00:00",true,,,"Pristine cataclastic anorthosite (G)"
+"65325","678","Apollo 16","5",,,"67.870","Breccia","fragmental","94.218","March, 09 2015 00:00:00",true,,,"Pristine cataclastic anorthosite (G)"
+"65326","679","Apollo 16","5",,,"36.400","Breccia","fragmental","99.341","March, 30 2012 00:00:00",true,,,"Cataclastic anorthosite"
+"65327","680","Apollo 16","5",,,"6.970","Breccia","fragmental","94.405","March, 30 2012 00:00:00",true,,,"Pristine cataclastic anorthosite (G)"
+"65328","681","Apollo 16","5",,,"1.280","Breccia","fragmental","92.500","August, 15 2007 00:00:00",true,,,"monomict, Cataclastic anorthosite (G), friable"
+"65329","682","Apollo 16","5",,,"1.920","Breccia","fragmental","94.950","August, 15 2007 00:00:00",true,,,"Cataclastic anorthosite (G), friable"
+"65335","683","Apollo 16","5",,,"1.630","Breccia","fragmental","94.230","August, 15 2007 00:00:00",true,,,"Cataclastic anorthosite (G), friable"
+"65336","684","Apollo 16","5",,,"0.600","Breccia","fragmental","91.000","August, 15 2007 00:00:00",true,,,"Cataclastic anorthosite (G), friable"
+"65337","685","Apollo 16","5",,,"11.570","Breccia","Fragmental","71.910","March, 30 2012 00:00:00",true,,,"polymict"
+"65338","686","Apollo 16","5",,,"2.650","Breccia","Fragmental","96.226","March, 30 2012 00:00:00",true,,,"polymict"
+"65339","687","Apollo 16","5",,,"1.620","Breccia","Fragmental","93.640","August, 15 2007 00:00:00",true,,,"polymict"
+"65345","688","Apollo 16","5",,,"0.860","Breccia","Fragmental","75.581","March, 30 2012 00:00:00",true,,,"polymict"
+"65346","689","Apollo 16","5",,,"0.800","Breccia","Fragmental","92.130","August, 15 2007 00:00:00",true,,,"polymict"
+"65347","690","Apollo 16","5",,,"0.430","Breccia","Fragmental","93.490","August, 15 2007 00:00:00",true,,,"Fragmental polymict breccia"
+"65348","691","Apollo 16","5",,,"11.660","Breccia","Impact Melt","98.799","March, 30 2012 00:00:00",true,,,"Glassy, clast rich"
+"65349","692","Apollo 16","5",,,"7.580","Breccia","Impact Melt","95.070","August, 15 2007 00:00:00",true,,,"Glassy impact melt"
+"65355","693","Apollo 16","5",,,"4.940","Breccia","Impact Melt","96.130","August, 15 2007 00:00:00",true,,,"Glassy"
+"65356","694","Apollo 16","5",,,"2.530","Breccia","Impact Melt","92.130","August, 15 2007 00:00:00",true,,,"Glassy"
+"65357","695","Apollo 16","5",,,"18.760","Breccia","Impact Melt","97.814","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"65358","696","Apollo 16","5",,,"7.020","Breccia","Impact Melt","95.997","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"65359","697","Apollo 16","5",,,"2.530","Breccia","Impact Melt","93.676","April, 02 2014 00:00:00",true,,,"polymict breccia inclusions"
+"65365","698","Apollo 16","5",,,"2.160","Breccia","Impact Melt","85.833","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"65366","699","Apollo 16","5",,,"8.480","Breccia","Impact Melt","96.462","March, 30 2012 00:00:00",true,,,"Glass"
+"65500",,"Apollo 16","5",,,"413.000","Soil","Unsieved","91.921","March, 30 2012 00:00:00",true,,,"Fines, Unsieved"
+"65501",,"Apollo 16",,,,"150.000","Soil","<1 mm","88.509","December, 04 2014 00:00:00",true,,,"Fines, < 1mm"
+"65502",,"Apollo 16",,,,"9.500","Soil","1-2 mm","64.968","March, 30 2012 00:00:00",true,,,"Fines, 1-2mm"
+"65503","700","Apollo 16",,,,"23.240","Soil","2-4mm","92.281","March, 30 2012 00:00:00",true,,,
+"65504","701","Apollo 16",,,,"22.480","Soil","4-10mm","98.130","August, 15 2007 00:00:00",false,,,
+"65510",,"Apollo 16","5",,,"171.300","Soil","Unsieved","90.490","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"65511",,"Apollo 16",,,,"190.200","Soil","<1 mm","95.857","September, 04 2013 00:00:00",false,,,"Fines, < 1mm"
+"65512",,"Apollo 16",,,,"16.050","Soil","1-2 mm","95.963","April, 16 2014 00:00:00",false,,,"Fines, 1-2mm"
+"65513","702","Apollo 16",,,,"20.210","Soil","2-4mm","80.282","March, 30 2012 00:00:00",false,,,
+"65514",,"Apollo 16",,,,"13.980","Soil","4-10 mm","100.000","August, 15 2007 00:00:00",false,,,"Fines, 4-10mm"
+"65515","703","Apollo 16","5",,,"50.250","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Reg Clod"
+"65516","704","Apollo 16","5",,,"10.490","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Reg Clod"
+"65517","705","Apollo 16","5",,,"11.850","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Reg Clod"
+"65518","706","Apollo 16","5",,,"9.477","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Reg Clod"
+"65519","707","Apollo 16","5",,,"10.580","Breccia","Regolith","99.990","August, 15 2007 00:00:00",false,,,"Reg Clod"
+"65525","708","Apollo 16","5",,,"7.483","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Reg Clod"
+"65526","709","Apollo 16","5",,,"3.545","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65527","710","Apollo 16","5",,,"2.890","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65528","711","Apollo 16","5",,,"3.082","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65529","712","Apollo 16","5",,,"2.555","Breccia","Regolith","87.671","January, 08 2013 00:00:00",true,,,"Fragmental polymict"
+"65535","713","Apollo 16","5",,,"2.658","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65536","714","Apollo 16","5",,,"1.575","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65537","715","Apollo 16","5",,,"2.426","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65538","716","Apollo 16","5",,,"2.342","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65539","717","Apollo 16","5",,,"2.180","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65545","718","Apollo 16","5",,,"1.797","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65546","719","Apollo 16","5",,,"1.346","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65547","720","Apollo 16","5",,,"1.587","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65548","721","Apollo 16","5",,,"3.023","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65549","722","Apollo 16","5",,,"2.094","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65555","723","Apollo 16","5",,,"2.202","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65556","724","Apollo 16","5",,,"1.170","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65557","725","Apollo 16","5",,,"1.114","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65558","726","Apollo 16","5",,,"1.695","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65559","727","Apollo 16","5",,,"1.533","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65565","728","Apollo 16","5",,,"0.852","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65566","729","Apollo 16","5",,,"1.998","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65567","730","Apollo 16","5",,,"1.289","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65568","731","Apollo 16","5",,,"0.808","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65569","732","Apollo 16","5",,,"0.873","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65575","733","Apollo 16","5",,,"0.907","Breccia","Regolith","65.050","March, 30 2012 00:00:00",true,,,"Fragmental polymict breccia (regolith clod)"
+"65576","734","Apollo 16","5",,,"0.906","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65577","735","Apollo 16","5",,,"0.706","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65578","736","Apollo 16","5",,,"0.320","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65579","737","Apollo 16","5",,,"0.612","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia (regolith clod)"
+"65585","738","Apollo 16","5",,,"9.294","Breccia","Impact Melt","97.052","March, 30 2012 00:00:00",true,,,"Cindery glass"
+"65586","739","Apollo 16","5",,,"6.763","Breccia","Regolith","93.180","August, 15 2007 00:00:00",true,,,"polymict"
+"65587","740","Apollo 16","5",,,"2.141","Breccia","Regolith","97.660","August, 15 2007 00:00:00",true,,,"polymict"
+"65588","741","Apollo 16","5",,,"9.629","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"polymict"
+"65700",,"Apollo 16","5",,,"92.300","Soil","Unsieved","96.850","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"65701",,"Apollo 16",,,,"171.300","Soil","<1 mm","81.281","March, 04 2015 00:00:00",true,,,"Fines, < 1mm"
+"65702",,"Apollo 16",,,,"4.890","Soil","1-2 mm","89.775","March, 30 2012 00:00:00",false,,,"Fines, 1-2mm"
+"65703","742","Apollo 16",,,,"1.580","Soil","2-4mm","70.380","August, 15 2007 00:00:00",false,,,
+"65704","743","Apollo 16",,,,"1.390","Soil","4-10mm","93.810","August, 15 2007 00:00:00",false,,,
+"65710",,"Apollo 16",,,,"91.230","Residue",,"89.390","August, 15 2007 00:00:00",false,,,
+"65715","744","Apollo 16","5",,,"31.360","Breccia","Regolith","94.624","March, 30 2012 00:00:00",true,,,"ancient"
+"65716","745","Apollo 16","5",,,"14.280","Breccia","Fragmental","97.200","August, 15 2007 00:00:00",true,,,"polymict"
+"65717","746","Apollo 16","5",,,"7.415","Breccia","Fragmental","93.900","August, 15 2007 00:00:00",true,,,"polymict"
+"65718","747","Apollo 16","5",,,"10.610","Breccia","Fragmental","96.040","August, 15 2007 00:00:00",true,,,"polymict"
+"65719","748","Apollo 16","5",,,"7.040","Breccia","Fragmental","97.020","August, 15 2007 00:00:00",true,,,"polymict"
+"65725","749","Apollo 16","5",,,"6.670","Breccia","Fragmental","96.940","August, 15 2007 00:00:00",true,,,"polymict"
+"65726","750","Apollo 16","5",,,"5.190","Breccia","Fragmental","96.920","August, 15 2007 00:00:00",true,,,"polymict"
+"65727","751","Apollo 16","5",,,"4.300","Breccia","Fragmental","95.840","August, 15 2007 00:00:00",true,,,"polymict"
+"65728","752","Apollo 16","5",,,"4.220","Breccia","Fragmental","95.972","March, 30 2012 00:00:00",true,,,"polymict"
+"65729","753","Apollo 16","5",,,"3.810","Breccia","Fragmental","98.580","August, 15 2007 00:00:00",true,,,"polymict"
+"65735","754","Apollo 16","5",,,"4.260","Breccia","Fragmental","96.950","August, 15 2007 00:00:00",true,,,"polymict"
+"65736","755","Apollo 16","5",,,"2.740","Breccia","Fragmental","97.080","August, 15 2007 00:00:00",true,,,"polymict"
+"65737","756","Apollo 16","5",,,"0.850","Breccia","Fragmental","97.060","August, 15 2007 00:00:00",true,,,"polymict"
+"65738","757","Apollo 16","5",,,"1.170","Breccia","Fragmental","94.020","August, 15 2007 00:00:00",true,,,"polymict"
+"65739","758","Apollo 16","5",,,"0.950","Breccia","Fragmental","96.840","August, 15 2007 00:00:00",true,,,"Fragmental polymict breccia"
+"65745","759","Apollo 16","5",,,"7.760","Breccia","Regolith","90.348","April, 03 2013 00:00:00",true,,,"polymict"
+"65746","760","Apollo 16","5",,,"4.190","Breccia","Regolith","82.220","April, 03 2013 00:00:00",true,,,"polymict"
+"65747","761","Apollo 16","5",,,"0.820","Breccia","Regolith","54.512","April, 03 2013 00:00:00",true,,,"polymict"
+"65748","762","Apollo 16","5",,,"0.970","Breccia","Regolith","60.412","April, 03 2013 00:00:00",true,,,"polymict"
+"65749","763","Apollo 16","5",,,"0.950","Breccia","Regolith","62.632","April, 03 2013 00:00:00",true,,,"polymict"
+"65755","764","Apollo 16","5",,,"1.420","Breccia","Regolith","61.549","April, 03 2013 00:00:00",true,,,"friable"
+"65756","765","Apollo 16","5",,,"0.770","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"polymict"
+"65757","766","Apollo 16","5",,,"26.200","Breccia","Impact Melt","97.260","April, 02 2014 00:00:00",true,,,"Glassy impact melt"
+"65758","767","Apollo 16","5",,,"5.950","Breccia","fragmental","95.010","August, 15 2007 00:00:00",true,,,"Dilithologic or crystalline polymict breccia"
+"65759","768","Apollo 16","5",,,"3.110","Breccia","unstudied","98.390","August, 15 2007 00:00:00",true,,,"Cataclastic anorthosite (G)"
+"65765","769","Apollo 16","5",,,"1.120","Breccia","fragmental","90.180","August, 15 2007 00:00:00",true,,,"Dilithologic breccia or melt-coated anorthosite (G?)"
+"65766","770","Apollo 16","5",,,"1.010","Breccia","unstudied","95.050","April, 02 2014 00:00:00",true,,,"Cataclastic anorthosite"
+"65767","771","Apollo 16","5",,,"17.510","Breccia","unstudied","97.830","March, 30 2012 00:00:00",true,,,"Glass"
+"65768","772","Apollo 16","5",,,"3.250","Breccia","Fragmental","92.615","March, 30 2012 00:00:00",true,,,"polymict"
+"65769","773","Apollo 16","5",,,"2.740","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"polymict"
+"65775","774","Apollo 16","5",,,"3.500","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"polymict"
+"65776","775","Apollo 16","5",,,"2.330","Breccia","Impact Melt","95.710","August, 15 2007 00:00:00",true,,,"Glassy"
+"65777","776","Apollo 16","5",,,"16.530","Breccia","Impact Melt","90.805","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"65778","777","Apollo 16","5",,,"12.220","Breccia","Impact Melt","97.422","July, 19 2012 00:00:00",false,,,"Poikilitic"
+"65779","778","Apollo 16","5",,,"12.710","Breccia","Impact Melt","94.091","May, 09 2012 00:00:00",true,,,"Basaltic"
+"65785","779","Apollo 16","5",,,"5.160","Breccia","Impact Melt","61.143","November, 05 2014 00:00:00",true,,,"Basaltic"
+"65786","780","Apollo 16","5",,,"83.020","Breccia","fragmental","99.230","August, 15 2007 00:00:00",true,,,"Glassy"
+"65787","781","Apollo 16","5",,,"8.280","Breccia","fragmental","98.880","August, 15 2007 00:00:00",true,,,"Crystalline, polymict"
+"65788","782","Apollo 16","5",,,"9.320","Breccia","Impact Melt","98.070","August, 15 2007 00:00:00",true,,,"Glassy"
+"65789","783","Apollo 16","5",,,"12.240","Breccia","fragmental","96.855","December, 02 2013 00:00:00",true,,,"Cataclastic anorthosite (G)"
+"65795","784","Apollo 16","5",,,"6.840","Breccia","Impact Melt","71.754","September, 25 2013 00:00:00",true,,,"Basaltic"
+"65900",,"Apollo 16","5",,,"233.200","Soil","Unsieved","99.330","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"65901",,"Apollo 16",,,,"393.200","Soil","<1 mm","90.598","January, 14 2015 00:00:00",false,,,"Fines, < 1mm"
+"65902",,"Apollo 16",,,,"14.840","Soil","1-2 mm","77.871","September, 03 2014 00:00:00",true,,,"Fines, 1-2mm"
+"65903","785","Apollo 16",,,,"11.400","Soil","2-4mm","89.620","August, 15 2007 00:00:00",false,,,
+"65904","786","Apollo 16",,,,"9.510","Soil","4-10mm","98.810","August, 15 2007 00:00:00",false,,,
+"65905",,"Apollo 16","5",,,"12.080","Breccia","Impact Melt","84.669","April, 02 2014 00:00:00",true,,,"Basaltic impact melt"
+"65906",,"Apollo 16","5",,,"6.584","Breccia","Impact Melt","95.216","April, 02 2014 00:00:00",true,,,"Basaltic impact melt (G)"
+"65907",,"Apollo 16","5",,,"4.658","Breccia","Fragmental","95.320","August, 15 2007 00:00:00",true,,,"Fragmental polymict breccia"
+"65908",,"Apollo 16","5",,,"2.162","Breccia","Unclassified","96.300","August, 15 2007 00:00:00",true,,,"Glass"
+"65909",,"Apollo 16","5",,,"2.024","Crustal","Anorthosite","86.360","August, 15 2007 00:00:00",true,,,"Cataclastic anorthosite"
+"65915",,"Apollo 16","5",,,"2.060","Breccia","Impact Melt","91.796","April, 02 2014 00:00:00",true,,,"Glassy or fine-grained impact melt"
+"65916",,"Apollo 16","5",,,"0.994","Crustal","Anorthosite","95.980","August, 15 2007 00:00:00",true,,,"Cataclastic anorthosite"
+"65920",,"Apollo 16",,,,"12.060","Residue",,"94.380","August, 15 2007 00:00:00",false,,,
+"65925","787","Apollo 16","5",,,"3.820","Breccia","Regolith","83.534","April, 03 2013 00:00:00",true,,,"polymict"
+"65926","788","Apollo 16","5",,,"3.030","Breccia","Regolith","75.050","April, 03 2013 00:00:00",true,,,"polymict"
+"65927","789","Apollo 16","5",,,"0.720","Breccia","Regolith","100.000","August, 15 2007 00:00:00",false,,,"polymict"
+"66030",,"Apollo 16","6","STONE MOUNTAIN",,"50.490","Soil","Unsieved","95.370","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"66031",,"Apollo 16",,,,"75.600","Soil","<1 mm","76.716","November, 13 2013 00:00:00",false,,,"Fines, < 1mm"
+"66032",,"Apollo 16",,,,"2.990","Soil","1-2 mm","100.000","August, 15 2007 00:00:00",false,,,"Fines, 1-2mm"
+"66033","790","Apollo 16",,,,"2.160","Soil","2-4mm","52.920","August, 15 2007 00:00:00",false,,,
+"66034","791","Apollo 16",,,,"3.360","Soil","4-10mm","97.050","August, 15 2007 00:00:00",false,,,
+"66035","792","Apollo 16","6","STONE MOUNTAIN",,"211.400","Breccia","Regolith","95.830","April, 03 2013 00:00:00",true,,,"polymict"
+"66036","793","Apollo 16","6",,,"4.384","Breccia","Regolith","86.907","February, 06 2013 00:00:00",true,,,"polymict"
+"66037","794","Apollo 16","6",,,"3.718","Breccia","Regolith","93.599","April, 02 2014 00:00:00",true,,,"Glassy"
+"66040",,"Apollo 16","6","STONE MOUNTAIN",,"166.500","Soil","Unsieved","93.315","March, 30 2012 00:00:00",false,,,"Fines, Unsieved"
+"66041","795","Apollo 16",,,,"357.400","Soil","<1 mm","74.629","September, 19 2014 00:00:00",true,,,
+"66042",,"Apollo 16",,,,"19.500","Soil","1-2 mm","84.364","December, 04 2013 00:00:00",false,,,"Fines, 1-2mm"
+"66043","796","Apollo 16",,,,"15.500","Soil","2-4mm","84.097","April, 02 2014 00:00:00",true,,,
+"66044","797","Apollo 16",,,,"11.300","Soil","4-10mm","97.239","March, 30 2012 00:00:00",false,,,
+"66050",,"Apollo 16",,,,"30.360","Residue",,"85.540","August, 15 2007 00:00:00",false,,,
+"66055","798","Apollo 16","6",,,"1306.000","Breccia","fragmental","88.155","July, 27 2012 00:00:00",true,,,"Polymict or dilithologic"
+"66070",,"Apollo 16",,,,"8.060","Residue",,"88.830","August, 15 2007 00:00:00",false,,,
+"66075","799","Apollo 16","6","STONE MOUNTAIN",,"347.100","Breccia","Fragmental","32.966","December, 04 2014 00:00:00",true,true,"66075,26","polymict"
+"66080",,"Apollo 16","6","STONE MOUNTAIN",,"106.100","Soil","Unsieved","97.790","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"66081","800","Apollo 16",,,,"177.300","Soil","<1 mm","89.500","December, 21 2012 00:00:00",true,,,
+"66082",,"Apollo 16",,,,"9.850","Soil","1-2 mm","78.782","March, 30 2012 00:00:00",true,,,"Fines, 1-2mm"
+"66083","801","Apollo 16",,,,"4.530","Soil","2-4mm","66.358","March, 30 2012 00:00:00",false,,,
+"66084","802","Apollo 16",,,,"3.130","Soil","4-10mm","97.760","August, 15 2007 00:00:00",false,,,
+"66085",,"Apollo 16","6",,,"3.660","Breccia","Fragmental","98.330","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia"
+"66086",,"Apollo 16","6",,,"2.027","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"Fragmental polymict breccia"
+"66090",,"Apollo 16",,,,"9.470","Residue",,"62.720","August, 15 2007 00:00:00",false,,,
+"66095","803","Apollo 16","6",,,"1185.000","Breccia","Impact Melt","88.368","September, 19 2014 00:00:00",true,,,"Basaltic"
+"66575",,"Apollo 16",,,,"0.000","Unclassified",,"0.000","August, 15 2007 00:00:00",false,,,
+"67010",,"Apollo 16",,,,"95.250","Residue",,"82.058","July, 27 2012 00:00:00",false,,,
+"67011",,"Apollo 16",,,,"168.500","Residue",,"90.898","March, 30 2012 00:00:00",false,,,
+"67012",,"Apollo 16",,,,"46.690","Residue",,"100.000","August, 15 2007 00:00:00",false,,,
+"67013",,"Apollo 16",,,,"63.590","Residue",,"100.000","August, 15 2007 00:00:00",false,,,
+"67014",,"Apollo 16",,,,"85.470","Residue",,"100.000","August, 15 2007 00:00:00",false,,,
+"67015","805","Apollo 16","11",,,"1194.000","Breccia","Fragmental","86.627","December, 03 2014 00:00:00",true,,,"polymict"
+"67016","806","Apollo 16","11",,,"4262.000","Breccia","Fragmental","94.666","March, 04 2015 00:00:00",true,true,,"polymict"
+"67020",,"Apollo 16",,,,"357.600","Residue",,"71.130","June, 06 2013 00:00:00",false,,,
+"67025","807","Apollo 16","11",,,"16.060","Breccia","Impact Melt","92.061","March, 30 2012 00:00:00",true,,,"Basaltic"
+"67030",,"Apollo 16",,,,"0.770","Residue",,"0.000","August, 15 2007 00:00:00",false,,,
+"67031",,"Apollo 16",,,,"52.730","Residue",,"94.601","March, 30 2012 00:00:00",false,,,
+"67032",,"Apollo 16",,,,"13.300","Residue",,"100.000","August, 15 2007 00:00:00",false,,,
+"67033",,"Apollo 16",,,,"14.880","Residue",,"93.280","March, 30 2012 00:00:00",true,,,
+"67034",,"Apollo 16",,,,"14.550","Residue",,"100.000","August, 15 2007 00:00:00",false,,,
+"67035","808","Apollo 16","11",,,"245.200","Breccia","Fragmental","95.694","March, 04 2015 00:00:00",true,,,"polymict"
+"67050",,"Apollo 16",,,,"18.540","Residue",,"95.250","August, 15 2007 00:00:00",false,,,
+"67055","809","Apollo 16","11",,,"221.900","Breccia","Fragmental","94.065","December, 03 2014 00:00:00",true,,,"polymict, anorthositic"
+"67070",,"Apollo 16",,,,"0.700","Residue",,"0.000","August, 15 2007 00:00:00",false,,,
+"67075","810","Apollo 16","11",,,"219.200","Breccia","fragmental","80.516","September, 19 2014 00:00:00",true,,,"Cataclastic anorthosite"
+"67090",,"Apollo 16",,,,"3.860","Residue",,"64.250","August, 15 2007 00:00:00",false,,,
+"67095","811","Apollo 16","11",,,"339.800","Breccia","Impact Melt","90.325","September, 19 2014 00:00:00",true,,,"Basaltic"
+"67110",,"Apollo 16",,,,"17.280","Residue",,"92.880","August, 15 2007 00:00:00",false,,,
+"67115","812","Apollo 16","11",,,"240.000","Breccia","Fragmental","91.824","January, 05 2015 00:00:00",true,,,"polymict"
+"67210",,"Apollo 16",,,,"3.860","Residue",,"0.000","August, 15 2007 00:00:00",false,,,
+"67215","813","Apollo 16","11",,,"276.200","Breccia","Fragmental","96.653","September, 19 2014 00:00:00",true,,,"Fragmental (monomict granoblastic)"
+"67230",,"Apollo 16",,,,"2.410","Residue",,"0.000","August, 15 2007 00:00:00",false,,,
+"67235","814","Apollo 16","11",,,"937.200","Breccia","Impact Melt","99.287","March, 02 2015 00:00:00",true,,,"Poikilitic"
+"67410",,"Apollo 16",,,,"58.720","Residue",,"95.640","August, 15 2007 00:00:00",false,,,
+"67415","815","Apollo 16","11",,,"174.900","Breccia","fragmental","89.646","March, 02 2015 00:00:00",true,,,"Cataclastic noritic anorthosite"
+"67430",,"Apollo 16",,,,"23.260","Residue",,"91.100","August, 15 2007 00:00:00",false,,,
+"67435","816","Apollo 16","11",,,"353.500","Breccia","Fragmental","90.411","April, 02 2014 00:00:00",true,,,"polymict, anorthositic"
+"67450",,"Apollo 16",,,,"217.200","Residue",,"97.280","August, 15 2007 00:00:00",false,,,
+"67455","817","Apollo 16","11",,,"942.200","Breccia","Fragmental","91.412","December, 03 2014 00:00:00",true,true,"67455,1","polymict, friable"
+"67460",,"Apollo 16","11","NORTH RAY CRATER",,"123.700","Soil","Unsieved","94.947","March, 30 2012 00:00:00",false,,,"Fines, Unsieved"
+"67461","818","Apollo 16",,,,"222.000","Soil","<1 mm","89.572","December, 03 2014 00:00:00",true,,,
+"67462",,"Apollo 16",,,,"17.400","Soil","1-2 mm","97.126","December, 04 2013 00:00:00",false,,,"Fines, 1-2mm"
+"67463",,"Apollo 16",,,,"6.240","Soil","2-4 mm","95.994","September, 03 2014 00:00:00",false,,,"Fines, 2-4mm"
+"67464","819","Apollo 16",,,,"0.700","Soil","4-10mm","92.860","August, 15 2007 00:00:00",false,,,
+"67475","820","Apollo 16","11",,,"175.100","Breccia","Impact Melt","91.911","January, 05 2015 00:00:00",true,,,"Glassy impact melt/breccia, clast rich"
+"67480",,"Apollo 16","11","NORTH RAY CRATER",,"87.050","Soil","Unsieved","85.870","March, 30 2012 00:00:00",true,,,"Fines, Unsieved"
+"67481",,"Apollo 16",,,,"132.700","Soil","<1 mm","84.107","January, 05 2015 00:00:00",true,,,"Fines, < 1mm"
+"67482",,"Apollo 16",,,,"14.650","Soil","1-2 mm","92.730","September, 03 2014 00:00:00",true,,,"Fines, 1-2mm"
+"67483",,"Apollo 16",,,,"8.370","Soil","2-4 mm","75.293","March, 30 2012 00:00:00",true,,,"Fines, 2-4mm"
+"67484","821","Apollo 16",,,,"6.020","Soil","4-10mm","79.718","November, 18 2009 00:00:00",true,,,
+"67485","822","Apollo 16","11",,,"6.550","Breccia","Impact Melt","91.008","May, 09 2012 00:00:00",true,,,"Fine-grained impact melt"
+"67486","823","Apollo 16","11",,,"5.800","Breccia","unstudied","94.640","August, 15 2007 00:00:00",true,,,"Glass"
+"67487","824","Apollo 16","11",,,"2.650","Breccia","Impact Melt","86.000","August, 15 2007 00:00:00",true,,,"Fine-grained impact melt"
+"67488","825","Apollo 16","11",,,"2.250","Breccia","Impact Melt","77.911","May, 09 2012 00:00:00",true,,,"Fine-grained"
+"67489","826","Apollo 16","11",,,"2.060","Breccia","Impact Melt","85.050","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"67495","827","Apollo 16","11",,,"1.340","Breccia","Impact Melt","90.300","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"67510",,"Apollo 16","11","NORTH RAY CRATER",,"9.220","Soil","Unsieved","0.000","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"67511",,"Apollo 16",,,,"59.500","Soil","<1 mm","91.445","June, 26 2013 00:00:00",true,,,"Fines, < 1mm"
+"67512",,"Apollo 16",,,,"14.460","Soil","1-2 mm","100.000","August, 15 2007 00:00:00",false,,,"Fines, 1-2mm"
+"67513",,"Apollo 16",,,,"19.390","Soil","2-4 mm","48.400","August, 15 2007 00:00:00",false,,,"Fines, 2-4mm"
+"67514","828","Apollo 16",,,,"31.030","Soil","4-10mm","91.947","November, 02 2010 00:00:00",true,,,
+"67515","829","Apollo 16","11",,,"60.800","Breccia","Fragmental","96.990","June, 24 2013 00:00:00",true,,,"polymict"
+"67516","830","Apollo 16","11",,,"14.380","Breccia","fragmental","96.660","August, 15 2007 00:00:00",true,,,"Crystalline, polymict"
+"67517","831","Apollo 16","11",,,"9.650","Breccia","Fragmental","91.150","May, 09 2012 00:00:00",true,,,"polymict"
+"67518","832","Apollo 16","11",,,"3.740","Breccia","Fragmental","89.599","May, 09 2012 00:00:00",true,,,"polymict or cataclastic anorthosite"
+"67519","833","Apollo 16","11",,,"2.040","Breccia","Fragmental","71.324","May, 09 2012 00:00:00",true,,,"polymict"
+"67525","834","Apollo 16","11",,,"2.520","Breccia","Anorthosite","79.405","September, 19 2014 00:00:00",true,,,"Cataclastic anorthosite"
+"67526","835","Apollo 16","11",,,"2.440","Breccia","Fragmental","96.760","August, 15 2007 00:00:00",true,,,"polymict"
+"67527","836","Apollo 16","11",,,"2.400","Breccia","Fragmental","92.500","August, 15 2007 00:00:00",true,,,"polymict"
+"67528","837","Apollo 16","11",,,"1.240","Breccia","Fragmental","83.060","August, 15 2007 00:00:00",true,,,"polymict"
+"67529","838","Apollo 16","11",,,"1.130","Breccia","Anorthosite","67.699","December, 02 2013 00:00:00",true,,,"Cataclastic anorthosite"
+"67535","839","Apollo 16","11",,,"0.990","Breccia","Anorthosite","63.333","May, 02 2013 00:00:00",true,,,"Fragmental breccia or cataclastic anorthosite"
+"67536","840","Apollo 16","11",,,"1.200","Breccia","Anorthosite","63.500","May, 02 2013 00:00:00",true,,,"Fragmental breccia or cataclastic anorthosite"
+"67537","841","Apollo 16","11",,,"1.290","Breccia","Anorthosite","68.990","August, 15 2007 00:00:00",true,,,"Cataclastic anorthosite"
+"67538","842","Apollo 16","11",,,"1.770","Breccia","Fragmental","92.320","August, 15 2007 00:00:00",true,,,"polymict"
+"67539","843","Apollo 16","11",,,"2.120","Breccia","Fragmental","71.085","March, 30 2012 00:00:00",true,,,"polymict"
+"67545","844","Apollo 16","11",,,"1.880","Breccia","Fragmental","92.930","August, 15 2007 00:00:00",true,,,"polymict"
+"67546","845","Apollo 16","11",,,"1.500","Breccia","Fragmental","97.933","May, 09 2012 00:00:00",true,,,"polymict"
+"67547","846","Apollo 16","11",,,"0.830","Breccia","Fragmental","84.340","August, 15 2007 00:00:00",true,,,"polymict"
+"67548","847","Apollo 16","11",,,"1.360","Breccia","Fragmental","92.650","August, 15 2007 00:00:00",true,,,"polymict"
+"67549","848","Apollo 16","11",,,"43.100","Breccia","Fragmental","98.380","August, 15 2007 00:00:00",true,,,"polymict"
+"67555","849","Apollo 16","11",,,"3.540","Breccia","Impact Melt","97.180","August, 15 2007 00:00:00",true,,,"Glassy"
+"67556","850","Apollo 16","11",,,"82.100","Breccia","Impact Melt","98.564","September, 19 2014 00:00:00",true,,,"Basaltic"
+"67557","851","Apollo 16","11",,,"3.300","Breccia","fragmental","79.758","April, 03 2013 00:00:00",true,,,
+"67558","852","Apollo 16","11",,,"2.560","Breccia","Fragmental","98.440","August, 15 2007 00:00:00",true,,,"polymict"
+"67559","853","Apollo 16","11",,,"32.900","Breccia","Impact Melt","66.072","September, 19 2014 00:00:00",true,,,"Basaltic"
+"67565","854","Apollo 16","11",,,"10.430","Breccia","Impact Melt","93.097","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"67566","855","Apollo 16","11",,,"4.310","Breccia","Impact Melt","86.775","May, 09 2012 00:00:00",true,,,"Granoblastic impactite"
+"67567","856","Apollo 16","11",,,"11.510","Breccia","Impact Melt","80.999","March, 30 2012 00:00:00",true,,,"Glass"
+"67568","857","Apollo 16","11",,,"11.050","Breccia","Impact Melt","94.543","March, 30 2012 00:00:00",true,,,"Glass"
+"67569","858","Apollo 16","11",,,"7.270","Breccia","Impact Melt","93.700","February, 25 2011 00:00:00",true,,,"Glass"
+"67575","859","Apollo 16","11",,,"4.470","Breccia","Impact Melt","99.330","August, 15 2007 00:00:00",true,,,"Glassy"
+"67576","860","Apollo 16","11",,,"3.980","Breccia","unstudied","89.020","August, 15 2007 00:00:00",true,,,"Glassy"
+"67600",,"Apollo 16","11","NORTH RAY CRATER",,"2.170","Soil","4-10 mm","0.000","March, 30 2012 00:00:00",true,,,"Fines, 4-10mm"
+"67601",,"Apollo 16",,,,"161.800","Soil","<1 mm","83.913","September, 19 2014 00:00:00",true,,,"Fines, < 1mm"
+"67602",,"Apollo 16",,,,"13.450","Soil","1-2 mm","90.706","December, 04 2013 00:00:00",false,,,"Fines, 1-2mm"
+"67603",,"Apollo 16",,,,"6.160","Soil","2-4 mm","81.818","August, 12 2014 00:00:00",true,,,"Fines, 2-4mm"
+"67604","861","Apollo 16",,,,"2.620","Soil","4-10mm","78.550","November, 02 2010 00:00:00",true,,,
+"67605","862","Apollo 16","11",,,"44.520","Breccia","Fragmental","94.295","March, 30 2012 00:00:00",true,,,"polymict"
+"67610",,"Apollo 16",,,,"66.830","Unclassified",,"93.580","August, 15 2007 00:00:00",false,,,
+"67615","863","Apollo 16","11",,,"8.770","Breccia","Impact Melt","86.545","March, 30 2012 00:00:00",true,,,"Fine-grained"
+"67616","864","Apollo 16","11",,,"21.290","Breccia","Impact Melt","96.990","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"67617","865","Apollo 16","11",,,"14.320","Breccia","Impact Melt","98.499","September, 19 2014 00:00:00",true,,,"Fine-grained"
+"67618","866","Apollo 16","11",,,"11.170","Breccia","Impact Melt","89.015","March, 30 2012 00:00:00",true,,,"Crystalline"
+"67619","867","Apollo 16","11",,,"6.150","Breccia","Impact Melt","98.537","September, 19 2012 00:00:00",true,,,"Fine-grained"
+"67625","868","Apollo 16","11",,,"6.720","Breccia","Impact Melt","97.920","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"67626","869","Apollo 16","11",,,"19.190","Breccia","Impact Melt","99.317","May, 09 2012 00:00:00",true,,,"Crystalline, polymict"
+"67627","870","Apollo 16","11",,,"79.640","Breccia","Impact Melt","96.710","May, 09 2012 00:00:00",true,,,"Glass"
+"67628","871","Apollo 16",,,,"0.000","Breccia","Impact Melt","0.000","August, 15 2007 00:00:00",false,,,
+"67629","872","Apollo 16","11",,,"5.430","Breccia","Impact Melt","69.098","September, 19 2014 00:00:00",true,,,"Glass"
+"67635","873","Apollo 16","11",,,"9.120","Crustal","Anorthosite","87.368","March, 02 2015 00:00:00",true,,,"Pristine cataclastic anorthosite"
+"67636","874","Apollo 16","11",,,"3.230","Crustal","Anorthosite","87.616","March, 30 2012 00:00:00",true,,,"Pristine cataclastic anorthosite"
+"67637","875","Apollo 16","11",,,"2.340","Crustal","Anorthosite","88.675","July, 11 2013 00:00:00",true,,,"Pristine cataclastic anorthosite"
+"67638","876","Apollo 16","11",,,"7.230","Breccia","Fragmental","97.680","August, 15 2007 00:00:00",true,,,"glassy polymict"
+"67639","877","Apollo 16","11",,,"7.340","Breccia","unstudied","99.550","August, 15 2007 00:00:00",true,,,"Crystalline, polymict"
+"67645","878","Apollo 16","11",,,"0.840","Breccia","Fragmental","65.120","August, 15 2007 00:00:00",true,,,"Fragmental polymict breccia"
+"67646","879","Apollo 16","11",,,"3.940","Breccia","Fragmental","92.820","August, 15 2007 00:00:00",true,,,"polymict"
+"67647","880","Apollo 16","11",,,"47.720","Breccia","Regolith","94.840","August, 15 2007 00:00:00",true,,,
+"67648","881","Apollo 16","11",,,"7.880","Breccia","Impact Melt","98.350","August, 15 2007 00:00:00",true,,,"Crystalline, polymict"
+"67649","882","Apollo 16","11",,,"1.600","Breccia","Fragmental","93.750","August, 15 2007 00:00:00",true,,,"polymict"
+"67655","883","Apollo 16","11",,,"4.110","Breccia","Impact Melt","97.570","August, 15 2007 00:00:00",true,,,"Crystalline, polymict"
+"67656","884","Apollo 16","11",,,"1.930","Breccia","Fragmental","91.610","August, 15 2007 00:00:00",true,,,"polymict"
+"67657","885","Apollo 16","11",,,"1.700","Breccia","Fragmental","91.180","August, 15 2007 00:00:00",true,,,"polymict"
+"67658","886","Apollo 16","11",,,"1.350","Breccia","Fragmental","89.110","August, 15 2007 00:00:00",true,,,"polymict"
+"67659","887","Apollo 16","11",,,"1.620","Breccia","Fragmental","75.432","March, 30 2012 00:00:00",true,,,"Crystalline or fragmental polymict"
+"67665","888","Apollo 16","11",,,"5.880","Breccia","Fragmental","89.830","August, 15 2007 00:00:00",true,,,"polymict"
+"67666","889","Apollo 16","11",,,"5.470","Breccia","Impact Melt","96.950","August, 15 2007 00:00:00",true,,,"Glassy breccia"
+"67667","890","Apollo 16","11",,,"7.890","Breccia","Impact Melt","50.444","March, 02 2015 00:00:00",true,,,"Pristine feldspathic lherzolite"
+"67668","891","Apollo 16","11",,,"3.580","Breccia","Impact Melt","96.089","September, 18 2012 00:00:00",true,,,"Poikilitic"
+"67669","892","Apollo 16","11",,,"12.540","Breccia","Fragmental","98.560","August, 15 2007 00:00:00",true,,,"polymict"
+"67675","893","Apollo 16","11",,,"1.070","Breccia","Impact Melt","99.350","August, 15 2007 00:00:00",true,,,"Glass"
+"67676","894","Apollo 16","11",,,"2.330","Breccia","Impact Melt","92.270","August, 15 2007 00:00:00",true,,,"Variolitic"
+"67685","895","Apollo 16","11",,,"28.040","Breccia","unstudied","99.472","May, 09 2012 00:00:00",true,,,"Cindery glass"
+"67686","896","Apollo 16","11",,,"11.750","Breccia","unstudied","99.740","August, 15 2007 00:00:00",true,,,"Cindery glass"
+"67687","897","Apollo 16","11",,,"7.600","Breccia","Impact Melt","99.605","May, 09 2012 00:00:00",true,,,"Cindery glass"
+"67688","898","Apollo 16","11",,,"2.320","Breccia","Impact Melt","87.069","May, 09 2012 00:00:00",true,,,"Cindery glass"
+"67695","899","Apollo 16","11",,,"14.020","Breccia","Impact Melt","95.399","May, 09 2012 00:00:00",true,,,"Glass"
+"67696","900","Apollo 16","11",,,"7.850","Breccia","Impact Melt","99.108","May, 09 2012 00:00:00",true,,,"Glass"
+"67697","901","Apollo 16","11",,,"5.540","Breccia","Impact Melt","98.917","May, 09 2012 00:00:00",true,,,"Glassy"
+"67700",,"Apollo 16","11","NORTH RAY CRATER",,"144.400","Soil","Unsieved","96.500","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"67701",,"Apollo 16",,,,"235.000","Soil","<1 mm","89.686","December, 03 2014 00:00:00",true,,,"Fines, < 1mm"
+"67702",,"Apollo 16",,,,"21.690","Soil","1-2 mm","89.912","December, 03 2014 00:00:00",true,,,"Fines, 1-2mm"
+"67703",,"Apollo 16",,,,"13.710","Soil","2-4 mm","56.090","July, 30 2014 00:00:00",true,,,"Fines, 2-4mm"
+"67704","902","Apollo 16",,,,"7.470","Soil","4-10mm","92.704","November, 18 2009 00:00:00",true,,,
+"67705","903","Apollo 16","11",,,"5.820","Breccia","Impact Melt","85.240","August, 15 2007 00:00:00",true,,,"Glass"
+"67706","904","Apollo 16","11",,,"1.520","Breccia","Fragmental","91.510","August, 15 2007 00:00:00",true,,,"polymict"
+"67707","905","Apollo 16","11",,,"1.420","Breccia","Fragmental","62.680","August, 15 2007 00:00:00",true,,,"polymict"
+"67708","906","Apollo 16","11",,,"1.330","Breccia","Fragmental","89.920","August, 15 2007 00:00:00",true,,,"polymict"
+"67710",,"Apollo 16","11","NORTH RAY CRATER",,"133.390","Soil","Unsieved","95.830","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"67711",,"Apollo 16",,,,"205.300","Soil","<1 mm","92.789","December, 29 2014 00:00:00",false,,,"Fines, < 1mm"
+"67712",,"Apollo 16",,,,"34.840","Soil","1-2 mm","92.113","March, 30 2012 00:00:00",true,,,"Fines, 1-2mm"
+"67713",,"Apollo 16",,,,"22.450","Soil","2-4 mm","75.501","March, 30 2012 00:00:00",false,,,"Fines, 2-4mm"
+"67714","907","Apollo 16",,,,"12.660","Soil","4-10mm","91.701","November, 02 2010 00:00:00",true,,,
+"67715","908","Apollo 16","11",,,"9.440","Breccia","Impact Melt","92.532","September, 19 2014 00:00:00",true,,,"Fine-grained"
+"67716","909","Apollo 16","11",,,"17.020","Breccia","Impact Melt","97.062","May, 09 2012 00:00:00",true,,,"Fine-grained"
+"67717","910","Apollo 16","11",,,"5.560","Breccia","Impact Melt","97.660","August, 15 2007 00:00:00",true,,,"Glassy"
+"67718","911","Apollo 16","11",,,"41.050","Breccia","Impact Melt","98.711","September, 19 2014 00:00:00",true,,,"Fine-grained, fragmental"
+"67719","912","Apollo 16","11",,,"2.130","Breccia","Impact Melt","96.714","May, 09 2012 00:00:00",true,,,"Fine-grained"
+"67725","914","Apollo 16","11",,,"5.850","Breccia","Impact Melt","99.040","August, 15 2007 00:00:00",true,,,"Crystalline, polymict"
+"67726","915","Apollo 16","11",,,"4.530","Breccia","Impact Melt","98.760","August, 15 2007 00:00:00",true,,,"Crystalline, polymict"
+"67727","916","Apollo 16","11",,,"1.800","Breccia","Impact Melt","99.060","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"67728","917","Apollo 16","11",,,"9.250","Breccia","Impact Melt","94.378","May, 09 2012 00:00:00",true,,,"Fine-grained"
+"67729","918","Apollo 16","11",,,"73.200","Breccia","Impact Melt","98.025","June, 06 2013 00:00:00",true,,,"Glassy"
+"67735","919","Apollo 16","11",,,"13.300","Breccia","Impact Melt","96.170","August, 15 2007 00:00:00",true,,,"Glassy"
+"67736","920","Apollo 16","11",,,"14.920","Breccia","Impact Melt","99.678","May, 09 2012 00:00:00",true,,,"Crystalline"
+"67737","921","Apollo 16","11",,,"4.560","Breccia","Impact Melt","99.210","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"67738","922","Apollo 16","11",,,"5.840","Breccia","Impact Melt","98.120","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"67739","923","Apollo 16","11",,,"2.030","Breccia","Impact Melt","92.760","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"67745","924","Apollo 16","11",,,"3.530","Breccia","Impact Melt","97.170","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"67746","925","Apollo 16","11",,,"3.470","Breccia","Impact Melt","72.968","September, 19 2014 00:00:00",true,,,"Poikiloblastic inpactite"
+"67747","926","Apollo 16","11",,,"6.300","Breccia","Impact Melt","75.746","September, 19 2014 00:00:00",true,,,"Basaltic"
+"67748","927","Apollo 16","11",,,"4.740","Breccia","Impact Melt","97.890","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"67749","928","Apollo 16","11",,,"11.470","Breccia","Fragmental","90.480","September, 19 2014 00:00:00",true,,,"polymict"
+"67755","929","Apollo 16","11",,,"3.530","Breccia","Impact Melt","96.880","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"67756","930","Apollo 16","11",,,"4.820","Breccia","Impact Melt","94.810","August, 15 2007 00:00:00",true,,,"Crystalline, polymict"
+"67757","931","Apollo 16","11",,,"4.830","Breccia","Impact Melt","97.516","May, 09 2012 00:00:00",true,,,"Basaltic/poikilitic"
+"67758","932","Apollo 16","11",,,"4.060","Breccia","unstudied","99.010","August, 15 2007 00:00:00",true,,,"Crystalline polymict"
+"67759","933","Apollo 16","11",,,"4.560","Breccia","Fragmental","98.772","May, 09 2012 00:00:00",true,,,"polymict"
+"67765","934","Apollo 16","11",,,"1.730","Breccia","Impact Melt","98.270","August, 15 2007 00:00:00",true,,,"Fine-grained"
+"67766","935","Apollo 16","11",,,"5.470","Breccia","unstudied","89.031","March, 30 2012 00:00:00",true,,,"Crystalline, polymict"
+"67767","936","Apollo 16","11",,,"1.670","Breccia","Fragmental","91.500","August, 15 2007 00:00:00",true,,,"polymict"
+"67768","937","Apollo 16","11",,,"0.990","Breccia","Fragmental","87.270","August, 15 2007 00:00:00",true,,,"polymict"
+"67769","938","Apollo 16","11",,,"3.050","Breccia","Impact Melt","95.410","August, 15 2007 00:00:00",true,,,"Poikilitic"
+"67775","939","Apollo 16","11",,,"6.580","Breccia","Impact Melt","90.319","September, 19 2014 00:00:00",true,,,"Fine-grained"
+"67776","940","Apollo 16","11",,,"3.100","Breccia","Fragmental","95.230","August, 15 2007 00:00:00",true,,,"polymict"
+"67910",,"Apollo 16",,,,"180.330","Residue",,"92.960","August, 15 2007 00:00:00",false,,,
+"67915","941","Apollo 16","11",,,"2559.000","Breccia","Fragmental","76.410","February, 26 2015 00:00:00",true,true,"67915,276; 67915,302","Crystalline, polymict"
+"67930",,"Apollo 16",,,,"8.510","Residue",,"93.770","August, 15 2007 00:00:00",false,,,
+"67935","942","Apollo 16","11",,,"108.900","Breccia","Impact Melt","91.284","January, 21 2015 00:00:00",true,,,"Basaltic"
+"67936","943","Apollo 16","11",,,"61.820","Breccia","Impact Melt","94.107","April, 02 2014 00:00:00",true,,,"Basaltic"
+"67937","944","Apollo 16","11",,,"59.670","Breccia","Impact Melt","97.590","August, 15 2007 00:00:00",true,,,"Basaltic"
+"67940",,"Apollo 16","11","HOUSE ROCK",,"27.220","Soil","Unsieved","96.110","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"67941",,"Apollo 16",,,,"105.900","Soil","<1 mm","84.314","December, 04 2014 00:00:00",true,,,"Fines, < 1mm"
+"67942",,"Apollo 16",,,,"12.230","Soil","1-2 mm","91.823","December, 04 2013 00:00:00",true,,,"Fines, 1-2mm"
+"67943",,"Apollo 16",,,,"9.360","Soil","2-4 mm","93.184","September, 03 2014 00:00:00",false,,,"Fines, 2-4mm"
+"67944","945","Apollo 16",,,,"8.590","Soil","4-10mm","85.483","July, 07 2011 00:00:00",true,,,
+"67945","946","Apollo 16","11",,,"4.370","Breccia","Impact Melt","90.618","April, 02 2014 00:00:00",true,,,"Basaltic"
+"67946","947","Apollo 16","11",,,"3.200","Breccia","Impact Melt","74.063","March, 30 2012 00:00:00",true,,,"Variolitic"
+"67947","948","Apollo 16","11",,,"2.430","Breccia","Impact Melt","63.498","May, 09 2012 00:00:00",true,,,"Basaltic"
+"67948","949","Apollo 16","11",,,"1.590","Breccia","Impact Melt","24.717","November, 18 2013 00:00:00",true,,,"Basaltic"
+"67950",,"Apollo 16",,,,"8.210","Unclassified",,"90.620","August, 15 2007 00:00:00",false,,,
+"67955","950","Apollo 16","11",,,"162.600","Crustal","Fragmental","85.938","September, 19 2014 00:00:00",true,,,"Poikiloblastic impactite"
+"67956","951","Apollo 16","11",,,"3.700","Breccia","Impact Melt","86.486","April, 02 2014 00:00:00",true,,,"Basaltic"
+"67957","952","Apollo 16","11",,,"1.730","Breccia","Impact Melt","91.330","August, 15 2007 00:00:00",true,,,"Glassy"
+"67960",,"Apollo 16","11","HOUSE ROCK",,"12.110","Residue",,"60.557","September, 19 2014 00:00:00",false,,,
+"67970",,"Apollo 16",,,,"3.150","Residue",,"51.110","August, 15 2007 00:00:00",false,,,
+"67975","953","Apollo 16","11",,,"446.600","Breccia","Fragmental","93.479","September, 03 2014 00:00:00",true,,,"polymict"
+"68001","955","Apollo 16","8","SOUTH RAY CRATER",,"840.700","Core","unsieved","76.009","December, 03 2014 00:00:00",true,,,
+"68002","956","Apollo 16","8","SOUTH RAY CRATER",,"583.500","Core","unsieved","76.517","December, 03 2014 00:00:00",true,,,
+"68030",,"Apollo 16",,,,"2.850","Residue",,"100.000","August, 15 2007 00:00:00",false,,,
+"68035","957","Apollo 16","8",,,"20.960","Breccia","Impact Melt","98.068","July, 15 2013 00:00:00",true,,,"Crystalline, polymict"
+"68110",,"Apollo 16",,,,"35.760","Residue",,"80.150","August, 15 2007 00:00:00",false,,,
+"68115","958","Apollo 16","8",,,"1191.000","Breccia","Fragmental","96.229","March, 03 2015 00:00:00",true,,,"Glassy"
+"68120",,"Apollo 16","8",,,"90.490","Soil","Unsieved","98.670","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"68121",,"Apollo 16",,,,"141.900","Soil","<1 mm","89.843","August, 08 2014 00:00:00",false,,,"Fines, < 1mm"
+"68122",,"Apollo 16",,,,"10.920","Soil","1-2 mm","90.840","August, 15 2007 00:00:00",false,,,"Fines, 1-2mm"
+"68123",,"Apollo 16",,,,"7.360","Soil","2-4 mm","86.410","August, 15 2007 00:00:00",false,,,"Fines, 2-4mm"
+"68124",,"Apollo 16",,,,"8.650","Soil","4-10 mm","92.830","August, 15 2007 00:00:00",false,,,"Fines, 4-10mm"
+"68410",,"Apollo 16",,,,"1.460","Residue",,"70.550","August, 15 2007 00:00:00",false,,,
+"68415","959","Apollo 16","8",,,"371.200","Breccia","Impact Melt","78.558","March, 10 2015 00:00:00",true,,,"Basaltic"
+"68416","960","Apollo 16","8",,,"178.400","Breccia","Impact Melt","75.030","February, 17 2015 00:00:00",true,,,"Basaltic"
+"68500",,"Apollo 16","8",,,"304.500","Soil","Unsieved","99.840","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"68501",,"Apollo 16",,,,"521.100","Soil","<1 mm","64.939","March, 11 2015 00:00:00",true,,,"Fines, < 1mm"
+"68502",,"Apollo 16",,,,"37.800","Soil","1-2 mm","89.172","September, 03 2014 00:00:00",true,,,"Fines, 1-2mm"
+"68503",,"Apollo 16",,,,"25.100","Soil","2-4 mm","81.869","August, 12 2014 00:00:00",true,,,"Fines, 2-4mm"
+"68504",,"Apollo 16",,,,"17.270","Soil","4-10 mm","98.260","August, 15 2007 00:00:00",false,,,"Fines, 4-10mm"
+"68505","961","Apollo 16","8",,,"1.300","Breccia","Impact Melt","79.000","February, 09 2012 00:00:00",true,,,"Poikilitic"
+"68510","962","Apollo 16",,,,"17.480","Unclassified",,"66.650","August, 15 2007 00:00:00",false,,,
+"68515","963","Apollo 16","8",,,"236.100","Breccia","Impact Melt","98.881","February, 25 2011 00:00:00",true,,,"Dilithologic or polymict"
+"68516","964","Apollo 16","8",,,"34.040","Breccia","Impact Melt","92.236","March, 30 2012 00:00:00",true,,,"Fine-grained/glassy"
+"68517","965","Apollo 16","8",,,"13.130","Breccia","Fragmental","98.058","April, 03 2013 00:00:00",true,,,"Crystalline or polymict"
+"68518","966","Apollo 16","8",,,"29.820","Breccia","not studied","99.453","April, 03 2013 00:00:00",false,,,"Glass"
+"68519","967","Apollo 16","8",,,"10.560","Breccia","Impact Melt","84.564","May, 09 2012 00:00:00",true,,,"Basaltic"
+"68525","968","Apollo 16","8",,,"38.960","Breccia","Impact Melt","99.110","August, 15 2007 00:00:00",true,,,"Poikilitic"
+"68526","969","Apollo 16","8",,,"7.210","Breccia","Impact Melt","89.600","August, 15 2007 00:00:00",true,,,"Poikilitic"
+"68527","970","Apollo 16","8",,,"3.030","Breccia","Impact Melt","96.700","August, 15 2007 00:00:00",true,,,"Crystalline polymict (poikilitic)"
+"68528","971","Apollo 16","8",,,"1.080","Breccia","Impact Melt","89.810","August, 15 2007 00:00:00",true,,,"Crystalline, polymict"
+"68529","972","Apollo 16","8",,,"7.030","Breccia","Impact Melt","98.580","August, 15 2007 00:00:00",true,,,"Glass"
+"68535","973","Apollo 16","8",,,"8.040","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Glassy"
+"68536","975","Apollo 16","8",,,"1.850","Breccia","Impact Melt","88.486","March, 30 2012 00:00:00",true,,,"Basaltic"
+"68537","976","Apollo 16","8",,,"1.410","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Fine-grained"
+"68810",,"Apollo 16",,,,"72.300","Residue",,"18.147","March, 08 2010 00:00:00",false,,,
+"68815","977","Apollo 16","8",,,"1826.000","Breccia","Impact Melt","87.165","March, 03 2015 00:00:00",true,,,"Glassy"
+"68820",,"Apollo 16","8",,,"83.730","Soil","Unsieved","98.840","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"68821",,"Apollo 16",,,,"123.900","Soil","Unsieved","92.118","September, 19 2014 00:00:00",true,,,"Fines, Unsieved"
+"68822",,"Apollo 16",,,,"7.350","Soil","1-2 mm","86.395","March, 30 2012 00:00:00",true,,,"Fines, 1-2mm"
+"68823",,"Apollo 16",,,,"3.520","Soil","2-4 mm","100.000","December, 04 2013 00:00:00",false,,,"Fines, 2-4mm"
+"68824","978","Apollo 16",,,,"1.500","Soil","4-10mm","103.600","August, 15 2007 00:00:00",false,,,
+"68825",,"Apollo 16","8",,,"8.658","Breccia","Impact Melt","97.150","August, 15 2007 00:00:00",false,,,"Glassy impact melt"
+"68840",,"Apollo 16","8",,,"154.500","Soil","Unsieved","99.290","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"68841",,"Apollo 16",,,,"266.600","Soil","<1 mm","93.267","September, 19 2014 00:00:00",true,,,"Fines, < 1mm"
+"68842",,"Apollo 16",,,,"14.360","Soil","1-2 mm","86.072","December, 04 2013 00:00:00",false,,,"Fines, 1-2mm"
+"68843",,"Apollo 16",,,,"8.890","Soil","2-4 mm","87.402","December, 04 2013 00:00:00",false,,,"Fines, 2-4mm"
+"68844","979","Apollo 16",,,,"5.010","Soil","4-10mm","98.840","August, 15 2007 00:00:00",false,,,
+"68845",,"Apollo 16","8",,,"4.556","Breccia","Impact Melt","84.830","August, 15 2007 00:00:00",true,,,
+"68846",,"Apollo 16","8",,,"2.284","Breccia","Impact Melt","90.980","August, 15 2007 00:00:00",true,,,
+"68847",,"Apollo 16","8",,,"2.854","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,
+"68848",,"Apollo 16","8",,,"1.770","Breccia","Impact Melt","100.000","August, 15 2007 00:00:00",false,,,"Basaltic impact melt (G)"
+"69001",,"Apollo 16","9","SOUTH RAY CRATER",,"558.300","Core","Unsieved","100.000","August, 15 2007 00:00:00",false,,,
+"69003","980","Apollo 16",,,,"1.000","Special","unsieved","23.700","April, 20 2009 00:00:00",false,,,
+"69004","981","Apollo 16",,,,"2.000","Special","unsieved","0.400","April, 01 2014 00:00:00",false,,,
+"69920",,"Apollo 16","9",,,"0.710","Soil","Unsieved","0.000","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"69921",,"Apollo 16",,,,"59.860","Soil","<1 mm","91.360","February, 18 2014 00:00:00",false,,,"Fines, < 1mm"
+"69922",,"Apollo 16",,,,"2.800","Soil","1-2 mm","100.000","August, 15 2007 00:00:00",false,,,"Fines, 1-2mm"
+"69923",,"Apollo 16",,,,"1.700","Soil","2-4 mm","100.000","August, 15 2007 00:00:00",false,,,"Fines, 2-4mm"
+"69924","982","Apollo 16",,,,"1.300","Soil","4-10mm","76.920","August, 15 2007 00:00:00",false,,,
+"69930",,"Apollo 16",,,,"4.130","Residue",,"92.980","August, 15 2007 00:00:00",false,,,
+"69935","983","Apollo 16","9",,,"127.600","Breccia","Fragmental","85.778","March, 30 2012 00:00:00",true,,,"Glassy"
+"69940",,"Apollo 16","9",,,"149.400","Soil","Unsieved","99.779","March, 30 2012 00:00:00",true,,,"Fines, Unsieved"
+"69941",,"Apollo 16",,,,"254.700","Soil","<1 mm","69.016","September, 03 2014 00:00:00",true,,,"Fines, < 1mm"
+"69942",,"Apollo 16",,,,"11.850","Soil","1-2 mm","95.814","December, 04 2013 00:00:00",false,,,"Fines, 1-2mm"
+"69943",,"Apollo 16",,,,"8.070","Soil","2-4 mm","85.799","March, 30 2012 00:00:00",false,,,"Fines, 2-4mm"
+"69944","984","Apollo 16",,,,"4.470","Soil","4-10mm","98.076","December, 04 2013 00:00:00",false,,,
+"69945","985","Apollo 16","9",,,"6.880","Breccia","Impact Melt","74.564","March, 30 2012 00:00:00",true,,,"Poikilitic"
+"69950",,"Apollo 16",,,,"3.770","Residue",,"88.060","August, 15 2007 00:00:00",false,,,
+"69955","986","Apollo 16","9",,,"75.940","Breccia","Anorthosite","82.374","July, 15 2013 00:00:00",true,,,"monomict, Cataclastic anorthosite"
+"69960",,"Apollo 16","9",,,"171.000","Soil","Unsieved","99.590","August, 15 2007 00:00:00",false,,,"Fines, Unsieved"
+"69961",,"Apollo 16",,,,"307.900","Soil","<1 mm","85.489","September, 03 2014 00:00:00",true,,,"Fines, < 1mm"
+"69962",,"Apollo 16",,,,"13.930","Soil","1-2 mm","96.274","September, 03 2014 00:00:00",true,,,"Fines, 1-2mm"
+"69963",,"Apollo 16",,,,"9.930","Soil","2-4 mm","83.817","March, 30 2012 00:00:00",true,,,"Fines, 2-4mm"
+"69964","987","Apollo 16",,,,"4.800","Soil","4-10mm","95.830","August, 15 2007 00:00:00",false,,,
+"69965","988","Apollo 16","9",,,"1.120","Breccia","Fragmental","100.000","August, 15 2007 00:00:00",false,,,"polymict"
